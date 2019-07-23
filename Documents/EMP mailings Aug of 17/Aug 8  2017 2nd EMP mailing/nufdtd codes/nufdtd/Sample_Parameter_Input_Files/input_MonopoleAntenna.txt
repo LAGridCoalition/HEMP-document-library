@@ -1,0 +1,29 @@
+3  ! Dimension configuration
+   50   50   90  ! grid size
+   .089   .089   .089  ! grid cell size in cm
+  1000  ! number of time steps
+ .1000E-11  ! Time step size (sec)
+ 0  ! Number of new materials
+  1  ! Number of background layers
+  1  ! Material type of layer  1
+  1  ! Number of objects (built-in objects & material files)
+4  ! Object type
+   25   25   70  ! (i,j,k) of antenna top-center
+    1    5    3  ! Core radius, dielectric thickness & shield thickness
+   50   45  ! Dielectric/core length, sheild length
+    2  ! Number of material output files printed
+  2   25  ! direction, location of material output file
+  3   30  ! direction, location of material output file
+3  ! Source type
+2  ! Pulse shape
+  50.0  ! Gaussian pulse width (time steps)
+ 200.0  ! Gaussian peak time (time steps)
+.1500E+10  ! Pulse frequency
+    10  ! Number of time steps between outputs
+  6  ! # field component slice series
+ 4 2   25  ! Specs, field component slice #  1
+ 5 2   25  ! Specs, field component slice #  2
+ 6 2   25  ! Specs, field component slice #  3
+ 4 3   30  ! Specs, field component slice #  4
+ 5 3   30  ! Specs, field component slice #  5
+ 6 3   30  ! Specs, field component slice #  6

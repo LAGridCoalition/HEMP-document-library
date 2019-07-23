@@ -1,0 +1,68 @@
+<HTML>
+
+<HEAD>
+<title>AP Physics Feud</title>
+
+<script src="utility.txt"></script>
+<script src="popup.txt"></script>
+<STYLE>
+.popupLink { COLOR: red; outline: none }
+.popup { POSITION: absolute; font-size:2.2em; VISIBILITY: hidden; BACKGROUND-COLOR: yellow; LAYER-BACKGROUND-COLOR: yellow; BORDER-LEFT: 1px solid black; BORDER-TOP: 1px solid black; BORDER-BOTTOM: 3px solid black; BORDER-RIGHT: 3px solid black; PADDING: 3px; z-index: 20 }
+</STYLE>
+
+
+<!-- keep the popup divs as the first things on the page -->
+
+<DIV onclick='event.cancelBubble = true;' class=popup id=ans1>Period: T_P</DIV>
+<DIV onclick='event.cancelBubble = true;' class=popup id=ans2>Length of pendulum: l</DIV>
+<DIV onclick='event.cancelBubble = true;' class=popup id=ans3>Acceleration due to gravity: g</DIV>
+
+<DIV onclick='event.cancelBubble = true;' class=popup id=eqn>T_P = 2 (pi) sqrt( l / g )</DIV>
+
+<DIV onclick='event.cancelBubble = true;' class=popup id=x1><img src="xbox.png" /></DIV>
+<DIV onclick='event.cancelBubble = true;' class=popup id=x2><img src="xbox.png" /></DIV>
+<DIV onclick='event.cancelBubble = true;' class=popup id=x3><img src="xbox.png" /></DIV>
+
+<!-- begin body of document -->
+
+
+<!-- leave this blank div in here to make sure you can click anywhere on the document for MSIE 5 mac -->
+<div id="blankDiv" style="position: absolute; left: 0; top: 0; visibility: hidden"></div>
+
+
+<div align="center">
+  <table border="0" cellpadding="4" cellspacing="6" width="100%">
+    <tr>
+      <td>
+        <p align="right">
+	 <a href="index.html"><b><font color="#000080">Select Game</font></b></a>
+      </td>
+    </tr>
+  </table>
+  <center><h1>AP Physics Feud Equation Round Game 3
+<p>
+What are the variables in the <a href="non_js_help.html" class=popupLink onclick="return !showPopup('eqn', event);">equation</a> for the period of a pendulum?
+</h1></center><br>
+
+  <table border="8" width="100%" cellpadding="4" cellspacing="6" bordercolor="#800000" bgcolor="#000080" bordercolorlight="#800000" bordercolordark="#800000">
+    <tr>
+      <td width="20%" height="15%" align="center"><font face="Arial" size="7"><a href="non_js_help.html" class=popupLink onclick="return !showPopup('ans1', event);">Answer 1</a></font></td>
+    </tr>
+    <tr>
+      <td width="20%" height="15%" align="center"><font face="Arial" size="7"><a href="non_js_help.html" class=popupLink onclick="return !showPopup('ans2', event);">Answer 2</a></font></td>
+    </tr>
+    <tr>
+      <td width="20%" height="15%" align="center"><font face="Arial" size="7"><a href="non_js_help.html" class=popupLink onclick="return !showPopup('ans3', event);">Answer 3</a></font></td>
+    </tr>
+  </table>
+<p>
+<font face="Arial" size="7">
+<a href="non_js_help.html" class=popupLink onclick="return !showPopup('x1', event);">x1</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+<a href="non_js_help.html" class=popupLink onclick="return !showPopup('x2', event);">x2</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+<a href="non_js_help.html" class=popupLink onclick="return !showPopup('x3', event);">x3</a>
+</font>
+</div>
+
+
+</BODY>
+</HTML>

@@ -1,0 +1,38 @@
+3  ! Dimension configuration
+  165  165   61  ! Grid size (see also params file)
+   .089   .089   .089  ! Grid cell size in cm
+  6000  ! number of time steps
+ .1000E-11  ! Time step size (sec)
+ 0  ! Number of new materials
+  1  ! Number of background layers
+  1  ! Material type of layer  1
+  1  ! Number of foreground objects
+0  ! Object type
+psi_spiral.dat        ! Material input filename
+   3  ! Orientation
+  31  ! Height
+    5    5  ! Starting point (x,y)
+  157  157  ! Width (x,y)
+    2  ! Number of material output files printed
+  3   31  ! direction, location of material output file
+  1   79  ! direction, location of material output file
+2  ! Source type
+  4  ! Number of excitation points
+   82    80    31  ! Excitation point coords #  1
+ .00 1.00  .00  ! Directional exn strengths
+   82    79    31  ! Excitation point coords #  2
+ .00 1.00  .00  ! Directional exn strengths
+   83    80    31  ! Excitation point coords #  3
+ .00 1.00  .00  ! Directional exn strengths
+   83    79    31  ! Excitation point coords #  4
+ .00 1.00  .00  ! Directional exn strengths
+2  ! Pulse shape
+  50.0  ! Gaussian pulse width (time steps)
+ 200.0  ! Gaussian peak time (time steps)
+.1500E+10  ! Pulse frequency
+    20  ! Number of time steps between outputs
+  4  ! # field component slice series
+ 5 1   78  ! Specs, field component slice #  1
+ 5 3   31  ! Specs, field component slice #  2
+ 5 3   29  ! Specs, field component slice #  3
+ 5 3   15  ! Specs, field component slice #  4

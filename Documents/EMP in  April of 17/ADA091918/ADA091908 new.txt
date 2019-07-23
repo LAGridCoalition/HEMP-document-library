@@ -1,0 +1,3826 @@
+AD-AG91 908 
+hARRY DIAMOND LABS AOELPHI MD F/6 18/3 
+A HEAR-SURFACE BURST EP4P DRIVER PACKAGE FOR NEUTRON-INDUCED SOU--ETCfU) 
+SEP 80 W T WYATT 
+
+
+3 
+UNCLASSII LED H)LTR19 0 NL 
+
+
+
+t~ &61 12.8
+
+1141 32.2 
+1 
+
+la 1 2.0U 
+
+i'11111L2 
+
+1.4
+X:jj:: Jil
+
+111111.6 
+
+MICROCOPY RESOLUTION TESTCHART 
+
+
+9=1 
+
+
+
+LL 
+
+
+
+UNCLASSIFIED 
+
+
+SECURITY CLASSIFICATION OF THIS PAGE (Whon Dat ,e td ____________________ 
+
+REPORT DOCMENTATION PAGE E08CMLM FR 
+REPOR NDMER-9. GOVT ACC[SSION NO-RECIPIENT'S CATALOG NUMBER 
+
+
+Adipi Sur 20783tRPOT4EID OERIE 
+
+E
+
+G AN UM 
+
+AND ADDRESS
+
+yFICE
+
+i lliaTR LLN O NAM
+
+CO 
+
+CLASS. h
+
+MNIORING ORAENCY INAME AADDRESS t.a IIdOf) S. SECURITY PROJET. TSK 
+
+ARA WORK UNCITSSIMIERS 
+Arove fiaor pubictreseditbuonnlme. 
+
+
+.S. MOteSilDvlomn n
+
+
+PEMAry 
+
+eadies Curven FS.ittin OFA-
+Compf-.Qtonfcurnts*A ht 5 o d w"
+
+
+Mitnztiotng f EUIYCAS 
+
+55. ~ ~ ~ ATRACI~ k' ~lckemSe~ o DOWNGRADINGm~~
+~ ~ d~t* 
+
+ISITRIUIOrTEEpoTdecrbe the deeopetofasftaepakg 
+depvoed for theliNees comp triode onspeciigte-n sae 
+
+
+tedDSRBTONprEi obsotainodMonStoc dte h i
+
+oy Calo0 tRnportrsls 
+ws' doPLMNeAR oalvouedtcorEnSiebistgte
+
+
+glObalT 
+
+
+foor ecudrer.s HihyefiinMinimizationaloihswr 
+
+
+eploed torotain eacmfiterae dreiefor rialandspace
+
+
+bySIATW emitte ner-ure
+
+dependendriver netPnSECdRced a ProE u 
+
+nuclar etoatiointheair Wel-chsenfuntionls erefit 
+
+
+
+UNCLASSIFIED 
+
+
+SECUVITY CLASSFICATION OF THIS PAOC(MMDWO~I 
+
+theta Compton currents and for ionization rate were determined 
+for nine source neutron energy bands, for five classes of 
+
+
+.-
+
+neutron interaction including (1) neutron direct ionization by 
+
+
+elastic recoil and charged particle production, and secondary 
+
+
+gamma production by (2)high energy air reactions, (3) low 
+
+
+energy air reactions, (4) high energy ground reactions, and 
+
+
+(5) low energy ground reactions. Burst height dependence of the 
+drivers was determined. Comparisons with experiment and 
+previous theory are briefly discussed. Typical driver results 
+are presented and discussed. The package allows flexible 
+representation of any nuclear weapon neutron energy spectrum 
+and choice of any burst height in the near-surface regime. 
+
+
+iK 
+
+....
+
+
+uio/
+
+
+e:. (
+
+s )n _"' 
+
+f 2, CLSIFCTONO HI AGtI.nDt ae 
+
+UNCLASSIFIED 
+
+
+
+CONTENTS 
+
+Page 
+
+
+Is INTRODUCTION... .......................... 5 
+
+
+4. CURVE-FITTING PROCEDURE..o............... o....*...... o.... s. 8 
+So MINIMIZATION OF FIT ERROR.*.... eo........ s*........ ... ... 12 
+
+
+6. BURST HEIGHT DEPENDENCE OF FIT PARAMETERS*...**.*..... .....,.20 
+
+
+7. CC14PARISON WITH LIQUID AIR EXPERIMENT...........................21 
+
+
+S. COMIPARISON WITH EARLIER APPROXIMATION FOR 
+IONIZATION BY 14-MeV NEUTRN...*****.......... oo..*......22 
+
+RESULTS. ... . . ...... *.. * 23
+
+9. SELECTED ... ..* .... .. ..... . o.***** * 
+
+LITERATURE CITED*....................o...................... s*.33 
+
+
+APPENDICES 
+A.--A TWfO-POINT QUADRATURE SCHWE.E .. .. .. ..... .. .. .... .. .. .. .. ... .35 
+
+FIGURES 
+1 Fitting algorithm ......oooo.................. *too*** ... 12 
+2 Radial Compton current for 1-rn burst height, 0-mn observer 
+height, and 1000-rn ground range.......o....................25 
+3 Theta Compton current for 1-rn burst height, 0-mn observer 
+height, and 1000-rn ground ............ ...... o...... ........... 26 
+
+4 Ionization rate for 1-rn burst height, 0-mn observer height, 
+
+and 1000-rn ground range....................... 2 
+
+
+3 
+
+......... 
+
+
+
+CONTENTS (Cont'd) 
+Page 
+-. I6 
+5 Radial Comnpton current for 1-rn burst height, 500-rn observer 
+height, and 1000-rn groundrag...... 
+Theta Compton current for 1-rn burst height, 500-mn observer 
+height, and 1000-rn ground rangeo...............................27 
+7 Ionization rate for 1-rn burst height, 500-n observer 
+height, and 1000-rn ground range................................28 
+8 Radial Compton current for 200-n burst height, 
+height, and 1000-rn ground rangeo..... ......................... 
+0-rn observer 
+28 
+9 Theta Comnpton current for 200-rn burst height, 0-rn observer 
+height, and 1000-rn ground rangesoo............................29 
+10 Ionization rate for 200-rn burst height, 0-mn observer 
+height, and 1000-rn ground rangeo...............................29 
+11 Radial Cornptoni current for 200-rn burst height, 500-rn 
+observer height, and 1000-rn ground rangeeo9*o*****oeo..........30 
+12 Theta Cornpton current for 200-n burst height, 500-rn 
+observer height, and 1000-rn ground rangeeo**eeeeo..............30 
+13 Ionization rate for 200-rn burst height, 
+height, and 1000-rn ground range... . . 
+500-n observer 
+. .. .. .. .. ... .. .. . . . . 31 
+TABLES 
+1 Monte Carlo Data Characteristics................................ 7 
+2 Effect of Minimizing Penalty Function 
+for Ionization Rate...................................... 19 
+
+
+I. INTRODUCTION 
+Various Army electronic systems may be exposed to nuclear explosion 
+
+effects in a tactical battlefield. Included among these nuclear effects 
+is the nuclear electromagnetic pulse (EMP), which is a transient broad-
+band electromagnetic field capable of damaging or upsetting electronic 
+equipment. To predict the signature of the EMP generated by a nuclear 
+
+burst, it is necessary to determine the physical parameters that induce 
+the DIP. These parameters, called D4P drivers, are time and space 
+varying ionization and Compton electron currents in the nuclear radia
+
+
+tion field around the burst. Once the ionization and the currents are 
+specified, it is usually possible to solve some form of Maxwell's equations 
+for the EMP generated. This report summarizes the development of 
+a software package specifying EMP drivers produced by neutrons emitted 
+from a near-surface burst in the air. The package was designed for use
+
+with the NEMP computer code used at the Harry Diamond Laboratories 
+
+(HDL). A separate report summarizes the development of a similar 
+software package for EIP drivers due to prompt gamma radiation. 
+
+2. MOTIVATION 
+The EMP drivers are due to one component arising from prompt gamma 
+radiation and a second component arising from neutron radiation. The 
+neutron component includes elastic recoil ionization (frequently called 
+"heating") by air constituent nuclei and also includes effects of 
+secondary gamma radiation produced by a number of neutron capture and 
+inelastic collision reactions in the air and the ground. The development 
+of DIP drivers by secondary gamma rays is physically similar to the 
+development for prompt gamma radiation, although the magnitude, the 
+direction, and the time dependence are markedly different. 
+
+
+Maxwell's equations for DIP from a near-surface burst are solved by 
+3
+
+the NEMP computer code. 2 The NEMP code requires E4P drivers to be 
+specified in a volume extending to several kilometers from the burst 
+point and for times extending to many milliseconds after the instant of 
+burst. The EMP drivers must be incorporated into the code as smooth 
+fits to results of quasi-analytic or Monte Carlo predictions. The NEMP 
+
+1WIlliam T. Wyatt, Jr., A Near-Surface Burst EMP Driver Package for 
+Prompt Gamma-Induced Sources, Harry Diamond Laboratories HDL-TR-1931 
+(1980). 
+
+2H. J. Longley, C. L. Zongmire, and K. S. Smith, Development of NEMP 
+(U), Mission Research Qorp., Santa Barbara, CA, HDL-CR-75-001-1 (April 
+1975) . (SECRET-RESTRICTED DATA)
+
+3H. J. Longley and K. S. Smith, Developments in NEMP for 1977 (U), 
+Mission Research Oorp., Santa Barbara, CA, HDL-CR-77-0022-1 (January 
+
+1978) o (SECRET--RESTRICTED DATA) 
+
+
+5 
+
+
+
+code in many respects is an extension of the LEMP computer code4 for EMP 
+from surface bursts, which was initially developed from about 1966 to 
+about 1969. The EMP drivers in the earlier LEMP code could have been 
+modified and used in the NEMP code with certain limitations. These 
+limitations are discussed briefly, and reasons are given for the impor
+
+
+tance of the new results reported here. 
+
+In this study, the neutron-induced I4P drivers are divided into five 
+categories% (1) neutron elastic (recoil) ionization, (2) fast neutron 
+air inelastic collision (n,n'y) drivers (both Compton electron currents 
+
+and ionization), (3) fast neutron ground inelastic collision (n,n'y) and 
+capture (n,y) drivers, (4) thermal neutron ground capture (n,y) drivers, 
+
+
+and (5) thermal neutron air capture (n,y) drivers. Of these, one would 
+expect the NEMP geometry to introduce complications to LEMP code 
+prescriptions for categories (1), (2), and (4), since the proximity of 
+
+the ground is different. Category (5) was not treated originally by the 
+LI4P code. Category (3) would be quite different for the NEP code and 
+probably of reduced magnitude. However, the cross sections for most of 
+the above reactions have been subjected to concentrated study and revision 
+with the advent of the Evaluated Nuclear Data File (ENDF-B, 
+distributed Brookhaven National Laboratory, Brookhaven, NY). It is 
+
+likely that new neutron transport studies based on recent ENDF-B cross 
+sections would produce results different from those upon which the La4P 
+code neutron-induced ZMP drivers were based. Further, by omission of 
+the thermal neutron air capture (n,y) drivers, the LEMP drivers were 
+limited to times less than about I ms after the burst. 
+
+The LEMP authors 5 developed a newer and much more complete prescription 
+of categories (1) through (5) based on results of Sargis and 
+others. 6 Factors weighing against the use of these prescriptions in the 
+NEMP code include the following: First, a newer revision (Round 3) of 
+ENDF-B was released in 1973. Second, the only burst heights considered 
+by Sargis were 0, 200, and 500 m, whereas the NEMP code operates princi
+
+
+pally at tactical burst heights between 0 and 200 m. Third, the new 
+LEMP EMP driver curve fits were considered by this writer to neglect 
+certain important ground-air interface effects such as time-dependent 
+
+depletion and enhancement. Fourth, the transport results6 were based on 
+
+
+4 H. J. Longley and C. L. longmire, Development and Testing of LEMP 1, 
+Los Alamos Scientific Laboratory, NM, LA-4346 (April 1970).5H. J. Langley, C. L. Longmire, J. S. Malik, R. M. Hamilton, R. N. 
+Harks, and K. S. Smith, Development and Testing of LEMP 2, A Surface 
+
+Burst EMP Code (U), Mission Research Corp., Santa Barbara, CA, DNA 4097T 
+(December 1976). (CONFIDENTIAL)
+
+
+6 D. A. Sargis, E. R. Parkinson, J. N. Wood, R. E. Dietz, and C. A. 
+
+Stevens, Late-Time Sources for Close-Zn EMP, Science Applications, Inc., 
+La Jolla, CA, DNA 3064F (August 1972). 
+
+
+6 
+
+...
+
+L . ... .%...... .. ... ., . ., . . . .".. 
+
+"energy grouped" cross sections, whereas a "Point" cross-section treatment 
+should be more accurate at deep penetrations. Fifth, a single 
+typical source neutron energy spectrum was used in the LEMP drivers, 
+
+* 
+with a parameter available for adjusting the concentration of high-
+energy (14-NeV) neutrons; a more desirable package would allow flexible 
+representation of arbitrary source neutron energy spectra. 
+
+
+For these reasons, new Ibnte Carlo transport calculations have been 
+done to describe more accurately the neutron-induced DIP drivers. 7 The 
+extent of these calculations is sxauarized in table 1. Edited results 
+of these calculations were transmitted to this writer on computer magne
+
+
+tic tape and 
+used to derive the DIP driver software package reported 
+
+here.TABLE 
+
+
+1. 14ORTS CARLO DATA CHARACTERISTICS 
+source neutron Time bin Burst 
+energy band boundary height Wrve 
+
+(Nov) (a) W 
+dive 
+
+
+0.0 to 0.11 
+0.0 to 1.0(-7)* 1 Neutron direct ionization 
+0.11 to 0.55 1.0(-7) to 2.15(-7) s0 High-energy air, radial current 
+0.5$ to 1.11 2.15(-7) to 4.64(-7) 100 High-energy air, theta current 
+1.11 to 1.83 4.64(-7) to 1.0(-6) 200 High-energy air, ionization 
+1.83 to 2.35 1.0(-6) to 2.15(-6) Low-energy air, radial current 
+2.35 to 4.07 
+2.15C-6) to 4.64(-G) Low-energy air, theta current 
+4.07 to 6.36 4.64(-6) to 1.0(-S) Low-energy air, ionization 
+6.36 to 8.19 
+1.0(-5) to 2.15(-5) High-energy ground, radial current 
+8.19 to 15.0 2.15(-51 to 4.64(-S) 
+High-energy ground, theta current 
+4.64(-S) to I.0(-4) High-energy ground, ionization 
+1.0(-4) to 2.15(-4) low-energy ground, radial current 
+
+2.15(-4) to 4.64(-4) low-energy ground, theta current 
+4.64(-4) to 1.0(-3) Low-energy ground, ionization 
+1.0(.-3) to 2.15(-3) 
+2.M5-3) to 4.64(-3) 
+4.60(-3) to 1.0(-2) 
+1.0(-2) to 2.15(-2) 
+2.15(-2) to 4.64(-2) 
+4.64(-2) to 1.01-1) 
+
+
+*Mad as 1.0 x 07 
+
+
+7jis S. Schechter and H. 0. Qbhen, Energy Deposition Rates and ofmpton 
+Electron Currents from low-Altitude Bursts as a Function of source 
+
+'I 
+'I
+020-1 (November 1977). 
+
+
+7 
+
+
+3. APPROACH 
+The edited results of Monte Carlo calculations contain statistical 
+fluctuations inherent in the Monte Carlo method. The NE4P code demands 
+smooth prescriptions of the EKP drivers to obtain useful results. One 
+
+may attempt to fit smooth general functions (such as polynomials) to the 
+
+Monte Carlo results by a least-squares fitting technique, for example, 
+
+or one may attempt to fit the Monte Carlo results with certain appro
+
+
+priate smooth functional forms. By using a polynomial of sufficiently 
+high degree, the former technique may allow the Monte Carlo results to 
+be fitted more faithfully than the latter, but the closer fit may mean 
+
+that the "noise" is being fitted instead of the underlying smooth "true 
+answer." The same difficulty can arise by using the latter technique if 
+
+
+too many degrees of freedom are permitted. On the other hand, if the 
+polynomial degree is not high enough, the fit may be a poor 
+
+representation of the true answer. In general, however, using 
+
+
+appropriate smooth functional forms will involve far fewer degrees of 
+freedom than using general functions if the functional forms are well 
+chosen and if the fit is a global fit over the entire space-time volume 
+of interest rather than a piecewise fit over many smaller subdivisions 
+of the space-time volume. 
+
+The strength of the technique of using well-chosen functional forms 
+is that physical variables usually do behave according to relatively 
+
+simple physical principles that are approximately described by rela
+
+
+tively simple functional forms. A global fit of properly chosen functional 
+forms to Monte Carlo results could reduce the error below the 
+statistical error of the Monte Carlo calculation. The fitting algorithm 
+should heavily weight low-variance results over high-variance results to 
+reduce the error. 
+
+The new edited Monte Carlo results for neutron-induced E4P drivers 
+consist of three physical quantities (energy deposition and radial and 
+polar components of Compton electron current) defined for 19 time intervals 
+within 63 spatial volume detectors, for five categories of reaction 
+
+(recoil, air inelastic, etc.), four burst heights, and nine source 
+
+neutron energy bands (table 1). There are 646,380 quantities to be 
+fitted. Apparently, the fitting algorithm must be highly automated to 
+allow useful results to be obtained with a realistic investment of human 
+effort. 
+
+
+4. CURVE-FITTING PROCEDURE 
+Thirteen distinct functions describe the time and space dependence 
+
+of 13 EMP drivers: 
+
+
+.f 8 
+
+
+(1) Ionization in the air from neutron elastic collisions and 
+charged particle production (such as (n,p) and (n,a) reactions that 
+deposit kinetic energy locally) 
+
+
+(2) Radial Compton electron current in the air (measured in the 
+polar coordinate system centered at the burst) due to high-energy neutron 
+reactions in the air (neutron energy more than 0.1 MeV) 
+(3) Polar Compton electron current in the air for the same as (2) 
+(4) Ionization in the air for the same as (2) 
+(5) Radial Compton electron current in the air due to low-energy 
+neutron reactions in the air (neutron energy less than 0.1 MeV) 
+
+
+(6) Polar Compton electron current in the air for the same as (5) 
+(7) Ionization in the air for the same as (5) 
+(8) Radial Compton electron current in the air (measured in the 
+polar coordinate system centered on the ground beneath the burst) due to 
+high-energy neutron reactions in the ground 
+
+
+(9) Polar Compton electron current in the air for the same as (8) 
+(10) Ionization in the air for the same as (8) 
+(11) Radial Compton electron current in the air due to low-energy 
+neutron reactions in the ground 
+(12) Polar Compton electron current in the air for the same as (11) 
+(13) Ionization in the air for the same as (11) 
+Drivers (2), (3), and (4) are due principally to high-energy inelastic 
+collisions with atmospheric nitrogen. Drivers (5), (6), and (7)are 
+due to thermal capture by atmospheric nitrogen. Drivers (8), (9), and 
+
+(10) are due to inelastic collisions with the ground and fast neutron 
+capture by the ground. Drivers (11), (12), and (13) are due to thermal 
+neutron capture by the ground. 
+A mathematical notation is used to simplify the succeeding discussion. 
+The vector functional F represents the drivers. F is dependent 
+on time (t) and space (x,y,z). Subscript d running from I to 13 denotes 
+
+which of the drivers is represented: 
+
+
+Fd(t,x,YZ) 
+
+9 
+
+
+
+Time t is the local time, retarded by the speed of light from the 
+coordinate center. 
+
+The functional Fd is a functional form incorporating a certain 
+number, nd, of parameters p. This is written as 
+
+Fd(t~xYzPdi) ' 
+
+where Pdi' i = I to nd, is interpreted as the parameter vector of length 
+nd for driver d. In general, nd is not the same for different d, but is 
+approximately 10 in this report. 
+
+Parameters Pdi are evidently dependent on the energy of the source 
+
+neutrons producing the drivers and on the height of burst. Other variables 
+are ignored, such as variations in water content of the air and the 
+
+
+ground and variations in ground composition. The parameters may then be 
+
+written 
+
+
+pdi ( j,h) 
+
+or 
+
+
+,
+
+Pdij(h) 
+
+
+where j denotes the ordinal of the source neutron discrete energy band 
+and h is the height of burst. In this way, p is a discrete function of 
+
+the source neutron energy (band) and a continuous function of the height 
+of burst. It thus appears that the DIP driver fits 
+
+
+Fd(txoY,';Pdij) 
+
+
+are defined when parameters Pdij are evaluated for a specific height of 
+burst, 
+
+Pdij = Pdij(h) 
+
+The total number of functions Pdij(h) to be determined is 
+
+13 nd 9 13 nd 
+
+d-1 i-1 j-1 d= i=1 
+
+
+Since nd -10, this total is roughly 1100. Thus, there are over a 
+thousand such functions to be specified. Determination of this many 
+functions was a formidable undertaking and required considerable 
+
+computer time (about 40 hr on an IBM System/370 Model 168). 
+
+
+10 
+
+A6 41 
+
+
+*functional 
+
+The following strategy was adopted: 
+
+a. Through previous experience supported by trial and error, 13 
+functional forms were constructed to constitute driver functionals Fd These 
+were functions of time and space and were based on a certain 
+number, nd, of parameters. 
+b. Monte Carlo predictions for the 13 drivers were available as 
+functions of time for each of 63 spatial volume detectors around the 
+burst for each combination of four burst heights and nine source neutron 
+energy bands. For a particular source neutron energy band, each driver 
+was fitted to the time and space dependence of the Monte 
+Carlo data, for each of the four sets of data corresponding to the four 
+heights of burst (1, 50, 100, and 200 m). The fit was obtained through 
+an optimization process by adjustment of each of the nd parameters for 
+
+the driver. 
+
+
+c. Four values , Pdij(hk), k = 1 to 4, were thus derived for 
+each parameter pdij corresponding to the four heights of burst. These 
+four values were approximated by simple functions of the height of 
+burst. In some cases, a constant function was used; in other cases, a 
+rational fraction was used. Certain constraints were imposed on the 
+
+rational fraction to insure satisfactory behavior of the approximation. 
+
+
+d. Since parameter functions Pd ij(h) only approximated values 
+Pdij(hk), k -I to 4, it was desirable to readjust the amplitudes of 
+the driver functionals Fd(t,x,y,z;pdi (h)) to obtain a closer fit to the 
+Monte Carlo data. Since the amplitude was by choice one of the parameters--
+specifically, pd, " this readjustment involved simply reoptimizing 
+the fit to the Monte Carlo data by adjustment of this one parameter, 
+Pd1"j Once this adjustment was done for each of the four heights 
+of burst, amplitude parameter function Pdlj(h) was refitted to these 
+
+four improved values for Pdlj(hk). 
+
+
+ea This completed the definition of all parameter functions 
+
+
+Pdij(h) for a particular neutron energy band, j. Process b to d was 
+repeated for each of the nine energy bands. 
+
+This strategy was implemented through the use of two specially 
+developed computer codes, BIGFIT and HOBFIT. BIGFIT performs a global 
+minimization (that is, simultaneously over all volume detectors and time 
+bins) of an error function estimating the "badness of fit" of driver 
+functionals Fd to the Monte Carlo data. HOBFIT approximates the burst 
+height dependence of parameter values Pdij(hk) with either a constant 
+
+function or a rational function. BIGFIT performs the minimization for 
+specified parameters of the functional% In practice, the specified 
+parameters ware usually either the amplitude parameter only or all 
+parameters of the functional. 
+
+11 
+
+
+~*~' ~ .~ I -.& * 
+
+
+The curve-fitting procedure is illustrated in figure 1. This procedure 
+was performed for each source neutron energy band and each driver 
+functional, or 9 x 13 -117 times, except where the driver was exactly 
+zero for an energy band. (For example, no high-energy neutron reactions 
+can occur for a low-energy source neutron.) First, starting with trial 
+guesses for the parameter values, BIGFIT was run four times (once for 
+
+each burst height) to fit the driver 
+functional to the Monte Carlo data 
+
+
+for that case. All parameters were * * -.m 
+adjusted to obtain the fit. The G E 
+functional parameter values so de-WI 
+termined were stored in temporary 
+data file FITFILE. Second, HOBFIT 
+
+obtained functions approximating the -U 
+burst height dependence of the 
+parameters stored on FITFILE, saving 
+these functions on permanent data 
+
+file HOBFILE A. Third, the param---mmiMu 
+eter functions were evaluated at the ' ., 
+four burst heights, and the resulting 
+parameter values were used as 
+BIGFIT was rerun four times (once 
+for each burst height) to fit the m-
+
+driver functional to the Monte Carlo 
+data, this time adjusting only the W" M! 
+amplitude parameter of the func-N=AUK 
+tional. The four amplitude param-WWIIIT 
+eter values so obtained were stored Figure 
+
+data file AMPFIT. amplitude parameter fits 
+
+in temporary 
+
+on fits
+
+
+obtained function arecete
+
+Fourth, HOBFIT a 
+
+m fits
+
+burst height de-B. Ote p
+
+
+approximating the B. Other parameter fits 
+pendence of the revised amplitude are created on HOEFILE 
+parameter values on AMPFIT, saving A. This algorithm is 
+
+applied to each driver 
+
+
+this function on permanent data file 
+
+
+every source neutron
+
+HOBFILE B. Thus, the final ampli-for 
+
+are stored on
+
+fits
+
+tude parameter energy band.• 
+HOBFILE B, and the other parameter 
+
+fits are stored on HOBFILE A. 
+
+
+5. MINIMIZATION OF FIT ERROR 
+The goal of the curve-fitting procedure in this work is to obtain a 
+
+
+global fit to the Monte Carlo data for the EMP drivers-that is, to fit 
+a single functional to the data over the entire space-time grid of 
+volume detectors and time bins. The global fit is desired rather than a 
+
+12 
+
+
+
+piecewise fit to the space or time dependence of the data. For a global 
+
+fit, a penalty function is constructed that measures the suitably 
+
+
+weighted error or the disagreement between the data and the curve fit. 
+
+The curve fit is improved by reducing the magnitude of the penalty 
+function by adjustment of the fit parameters. A best fit is obtained 
+when the penalty function arrives at a (minimum) extremum. The penalty 
+function is a function of the several parameters for the driver functional 
+and, with suitable smoothness, is amenable to minimization by 
+
+standard optimization algorithms. 
+
+
+To illustrate the curve-fitting procedure, a specific example of a 
+driver functional is examined. Neglecting air density and mass-scaling 
+
+effects for simplicity of presentation, the functional for ionization by 
+high-energy neutron inelastic collisions in the atmosphere (that is, 
+"air inelastic" gamma ray production) is 
+
+I(x,y,z,t) = p1ACD 
+
+
+where 
+
+
+x,y,z = Cartesian coordinates of the observer measured from the 
+coordinate center on the ground beneath the burst, 
+
+t = retarded time at the point (x,y,z'), 
+
+zA = z -h, 
+
+
+h -burst height, 
+
+-amplitude parameter,
+
+
+P1 
+
+
+A -I -P2 exP(-zP3 )' 
+
++ p6) , 
+C exp(-tp4)/(tP 
+
+D = exp(-rp7)/(r2 + ps) 
+
+
+2 
+
+r = [x2 + y + (z')2] 1/2. 
+
+This particular driver functional is relatively simple and incorporates 
+range attenuation factor D, tim dependence factor C, and ground 
+depletion factor A. These factors are typical of other driver func
+
+
+tionals, as well, although other functionals may also include time-
+dependent or range-dependent ground depletion (or enhancement) 
+factors. Different time-dependence factors are used also. 
+
+13 
+
+
+.; .4 .. 
+
+....... A 
+
+
+
+In this functional, eight parameters are used so that the penalty 
+function is a function of eight variables. The penalty function is 
+defined as function P of parameter vector p k = 1 to 8: 
+
+* , ifzilt.;Pk)]f'xiI
+-2..i 
+
+where the summation is performed over all i and j and where 
+
+i = a volume detector index running from I to 63, 
+
+= a time bin index running from I to 19, 
+
+f = the driver Monte Carlo score in the ith detector 
+and jth time bin, 
+
+f i ,Yifziftj;Pk = the integral, over the ith detector and jthtime bin, of driver functional 
+
+F(xi,yi,zi,t.;Pk) (d subscript omitted from F) 
+evaluated for parameter vector pk' 
+Wij a nonnegative weight factwr defined as 
+wijf2 /-2 
+
+fij =the total ionization score in the ith detector 
+and the jth time bin due to all drivers (for
+
+ionization, these are high and low energy n-y
+
+reactions in air and in ground and neutron di
+
+
+rect ionization), 
+
+
+wij a user-defined nonnegative weight function emphasizing 
+the importance of certain spatial 
+
+regions (typically, about 10.0 near the ground 
+and decreasing to about 0.25 to 1.0 at I 
+
+above the ground), 
+
+Vjj the variance of score fjj. 
+
+Score fij would be reproduced exactly by integral f(xi,Yi,zi,tjPk) 
+if driver functional F were an exact fit to the driver and if the variance 
+associated with Monte Carlo score fi were zero. In this instance, 
+
+) would be zero. In actuality, fungtional F is not an exact fit, 
+and variance V is proportional to the square of a fractional deviation 
+averaging about 20 percent for the data given. 
+
+14 
+
+
+It is apparent that minimization of P(pk ) yields a weighted least
+
+
+squares fit. The use of the inverse of variance Vi. increases the 
+
+weight of low-variance Monte Carlo data, which is expected to be more 
+
+accurate than high-variance data in inverse proportion to the 
+
+variance. The use of ratio f~j/f~j causes the relative importance of 
+
+this driver to be considered in comparison with all the other 
+
+contributing drivers. If the ratio is small, the weight is diminished 
+
+accordingly; if the ratio is near unity (that is, no other driver is 
+
+contributing significantly), the weight is maximized. User-defined 
+
+
+factor is used to force the best fit to be obtained near the ground 
+
+(large 
+wwi 
+i) and a moderately good fit far from the ground (small wi). A 
+very good fit near the ground is desired because most EMP targets (that 
+is, electronic systems) are found on or near the ground. 
+
+=-i !To evaluate the quadruple integral, 
+
+f ~ ~ ~ ~ f dxilitdy dz ftj dt F(xiEYi'zi'tjIpk) 
+
+13 
+
+over detector volume and time bin (tj_1,t-, a numerical integration
+
+Vi 
+
+must be done. This numerical integration must be done efficiently 
+because integral f must be evaluated 63 x 19 -1197 times for each 
+evaluation of penalty function P. Penalty function P must typically be 
+evaluated several hundred times to locate a useful minimum and the 
+associated best fit. Thus, the numerical integration may be required 
+about 105 times to complete one of the necessary 4 x 13 x 9 -468 runs 
+of BIGFIT. This is about 107 integral evaluations for the entire fit
+
+
+3
+
+ting problem. Evaluation of functional F requires roughly 10-s of 
+computer central processor (CP) time, so that about 104 N seconds of CP 
+time are forecast if N evaluations of functional F are needed to obtain 
+its numerical integral f. Clearly, N must be as near unity as possible 
+to avoid prohibitive computer time requirements. Accordingly, a three-
+
+point Gauss-Legendre quadrature was used for the time integration, and a 
+special, highly accurate two-point Gaussian quadrature (with adjustable 
+weight function) was developed by this writer and used for the volume 
+integration. Appendix A describes the two-point scheme. Several other 
+
+techniques were used to reduce the overall CP time requirement to about 
+
+40 hr for the entire curve-fitting project. 
+
+
+With the penalty function thus defined for the driver functional, it 
+
+is necessary to minimize the. penalty function by adjustment of the 
+parameter vector. A highly efficient minimization algorithm is desired, 
+in the sense of using the fewest possible evaluations of the penalty 
+function. A number of different minimization algorithms were tested. 
+
+15 
+
+
+L. , .... I .I 
+
+The most efficient algorithm for this application was determined to be a 
+
+
+modified conjugate gradient method. This writer adapted the well-known 
+
+
+conjugate gradient method8 to use finite differences to estimate the 
+
+
+gradient matrix and to cycle indefinitely during a single descent proce
+
+
+dure instead of repeating the descent procedure after cycling once for 
+
+each element in the vector of independent variables. A very efficient 
+
+algorithm with quadratic convergence also was developed to search for a 
+
+
+minimum along a chosen direction, in connection with the descent proced
+
+
+ure. Appendix B contains a listing of the FORTRAN version of these 
+
+
+descent algorithms. It was found that minimization of the penalty 
+
+
+function proceeded much more rapidly if amplitude parameter Pl were 
+
+
+optimized analytically during evaluation of penalty function P(pkO 
+
+
+Optimum amplitude a (to minimize P(pk) with respect to the amplitude 
+
+parameter) can easily be shown to be trial amplitude at multiplied by 
+
+the factor 
+
+
+' K~= i,1 11iZit 
+
+
+ii j 
+[if ixYiiz't Pk)]ij 
+
+where, as previously explained, 
+
+
+fij = the data value for volume detector i and time bin J, 
+
+f( ) = the corresponding value of the fit using a nonzero trial 
+value (completely arbitrary) for pl 
+
+
+gij = corresponding complete weight function Wij/Vij used in 
+penalty function P(pk). 
+
+When p is chosen in this way to be a = Kat and when the minimization of 
+
+
+P(pk) Is done for the other Pk exclusive of pl, the minimization process 
+is greatly accelerated. 
+
+
+Minimizing the penalty function (that is, obtaining the best fit) 
+can be interpreted geometrically as finding the bottom of a hypersurface 
+whose dimensionality is the number of functional parameters. An initial 
+guess for the Pk provides a starting point for the descent. Taking an 
+initial guess that is close to the true bottom reduces the descent 
+a "fort and help, keep the descent path out of undesirable local minima 
+that are far from the true bottom (that is, the least minimum). 
+Although the computer calculation was performed in double precision, it 
+
+8R. Fletcher and C. N. Reeves, Function Minimization by Conjugate 
+Gradients, Computer Journal, 2 (1964), 149-154. 
+
+16 
+
+
+II 
+
+
+was learned that a minimum in the hypersurface takes on a rough, 
+granular texture in its shallowest portions due to roundoff errors in 
+the calculation. This undesirable texture impedes the descent to the 
+desired minimum. In general, the speed of descent is slowed by 
+complexity or exceptional shallowness of the hypersurface. Greater 
+complexity is typically caused by more parameters having higher polynomial 
+degree than quadratic (in a Taylor expansion of the penalty 
+function) so that the descent requires more changes in direction. 
+Shallowness increases in rough proportion to the number of scattered 
+data being fitted with the functional. For example, if the number of 
+data is increased tenfold, but the data scatter (due to finite variance) 
+is not reduced, the hypersurface becomes roughly 10 times shallower. It 
+then becomes harder to find the precise bottom of the shallower 
+surface. In this work, the penalty function hypersurface is both 
+complex and shallow, and the success of the fitting process depended 
+critically on the efficiency and the robustness of the minimization 
+procedures. 
+
+The initial guesses for the various sets of parameters pk were 
+usually taken from the optimal values of Pk for adjacent source neutron 
+energy bands or burst heights. After the optimum values for pk were 
+obtained for a particular descent, the importance of each parameter was 
+tested. If elimination of a parameter caused a sizeable increase in the 
+
+
+penalty function, that parameter was deemed important. If a negligible 
+increase was observed, that parameter was deemed unimportant and was 
+
+removed from the functional. The functionals for several drivers were 
+considerably simplified in this way. 
+
+
+An example of the effect of minimizing the penalty function is shown 
+for one volume detector in table 2. The energy deposition (or ionization) 
+due to thermal neutron capture in the ground is given for volume 
+
+detector 33, source neutron energy band 9 (8.19 to 15.0 MeV), and 200-m 
+burst height. Detector 33 is 600 to 900 m above the ground at 1200-to 
+1500-m ground range from the burst. Table 2 gives these parameters: 
+
+
+the time bin boundaries, 
+
+
+fij' the Monte Carlo score in the detector, 
+
+
+f, the optimal global fit score in the detector, 
+
+
+fT' the trial global fit score in the detector, 
+
+
+di, the percentage of fractional deviation (due to the variance) 
+of the Monte Carlo score for this driver, 
+
+d , the percentage of fractional deviation (due to the variance) 
+of tha Monte Carlo score for the sum of all drivers, 
+
+
+17 
+
+
+
+r, the percentage fraction of the total Monte Carlo 
+
+
+score, fidue to this driver, fij (r = 100 fij/-fij), 
+
+e, the percentage of difference between the Monte Carlo 
+score, fij' and the optimal fit score, f, 
+
+
+e, the percentage of "error" in the total score contributed 
+by optimal fit score f, 
+
+
+eT, the percentage of difference between Monte Carlo score 
+fij and trial fit score fT1 
+
+
+eT, the same as e, but evaluated for the trial f it score 
+
+fT" 
+
+
+The goal of the fitting process is to make e as small as possible in 
+
+
+each time bin. When r is larger, a better fit is needed to make e small 
+
+
+and thereby make e small. Generally, e is desired to be roughly equal 
+
+
+to or smaller than di. for each time bin. Since fractional deviation 
+
+d. (due to the variance) is an estimate of the Monte Carlo error, 
+diference e between the ffit and the Monte Carlo score should be about 
+equal to d.. Thus, when d is large, e may be large; when dij is 
+saerg 20 o 25 ercent Intcable 2, time bins 11 through 13 have 4ij 
+averaging 20 to 25 percent and e averaging about 10 percent; time bins 
+15 through IS have di. averaging 40 to 50 percent and e averaging about 
+40 percent. The values for e and e appear to fluctuate approximately 
+randomly about zero in time bins 8 through 19, as would be expected of a 
+good fit to the data. The largest values for eT and e have been 
+reduced by the fitting process to smaller values for e and e 
+
+18 
+
+
+-e 
+
+
+. .... ... ,A,,k .. .*--.
+
+
+...... -...
+... . ..... .. ... . .,, I -,---' .. -, : --.j ,. .. --' ". . . .. ... 
+
+
+TABLE 2. EFECT Or MINIMIZING0 P9MALTYFUNICTIONFOBtIONIZATION FATE, VOLUME 
+
+DETECTOR33, NEUTIRONENEWYSAW19 (8.19 TO 15.0 NaY), 200-M 
+BURST "EIGHT 
+Time timebin ff f~ j r *T 
+bin Ti O T 
+1 0.0 0.0 0.89020-12 0.9263D-12 99.9 9.3 0.0 100.0 0.0 100.0 0.0 
+2 0.10000-06 0.7037D-08 0.37490-11 0.39100-11 "9.9 10.8 0.1 -99.9 -0.1 -99.9 -0.1 
+3 0.21500-06 0.0 0.6SSD-11 0.9026D-11 99.9 11.4 0.0 100.0 0.0 100.0 0.0 
+4 0.46400-06 0.0 019050-10 0.19870-10 99.9 10.9 0.0 100.0 0.0 100.0 0.0 
+5 0.1000D05 0.0 0.4053D-10 0.42280-10 99.9 9.9 0.0 100.0 0.0 100.0 0.0 
+6 0.21500-05 0.0 0.83090-10 0.8671D-10 99.9 10.6 0.0 100.0 0.0 100.0 0.0 
+7 0.46400-05 0.0 0.15860-09 0.1659D-09 99.9 9.4 0.0 100.0 0.0 100.0 0.0 
+8 0.1000D-04 0.38580-09 0.26590-09 0.27000-09 78.2 11.7 0.2 -31.1 -0.1 -27.9 -0.1 
+9 0.21500-04 0.312ID-09 0.36530-09 0.3814D-09 76.7 7.1 0.3 14.6 0.0 18.2 0.1 
+10 0.46400-04 0.2202D-09 0.40270-09 0.4155D-09 64.9 9.0 1.0 45.3 0.4 47.0 0.5 
+11 0.10000-03 0.38230-09 0.36060-09 0.35000-09 17.6 9.6 7.0 -S.7 -0.4 -6.4 -0.4 
+12 0.21500-03 0.2123D-09 0.25030-09 0.2255D-09 20.9 9.2 26.6 15.2 4.1 5.9 1.6 
+13 0.46400-03 0.12820-09 0.11430-09 0.85290-10 29.3 23.7 80.6 -10.8 -8.7 -33.5 -27.0 
+14 0. 1000-02 0.35460-t0 0.3013D-10 0. 1921D-10 69.2 58.4 83.7 -15.0 -12.6 -45.8 -38.3 
+Is 0.21S00-02 0.6082D-11 0.6749D-11 0.63710-Il 43.6 36.6 63.4 30.5 19.3 4.S 2.9 
+16 0.46400-02 0. 2490-lI1 0.3813D-11 0.2967301 50.3 28.7 13.9 29.5 4.1 6.2 0.9 
+17 0.10000-01 0.37940-l1 0.16600-11 0.1283D-11 39.2 25.5 27.7 -55.5 -15.4 -66.2 -16.3 
+16 0.21500-01 0.1349D-1l 0.74280-12 0.5717D-12 52.4 15.5 15.8 -44.9 -7.1 -57.6 -9.1 
+19 0.46400-01 0.3319D-12 0.32620-12 0.2542D-12 35.0 17.5 7.6 -1.7 -0.1 -23.4 -1.8 
+Nboe 
+f the 
+Monte Carlo score In the detector. 
+f -the optial global fit score in the detector. 
+-rthe trial global fit score In the detector. 
+dij the percentage of fractional deviation (due to the variance) 
+Of the Mbnte Carlo scOre for these drivers. 
+I-the PercenitageOf frActIOna~l 
+of the Monte Carlo score for 
+deviatiOn (due to the variance) 
+the sMw of all drivers. 
+r -100 j/, 
+& the percentage of difference betveen fij and f. 
+a -r/100. 
+Or the percentage of difference betuveen f jand ft.. 
+-re'tlOO. 
+
+19 
+
+
+
+6. BURST HEIGHT DEPENDENCE OF FIT PARAMETERS 
+Having obtained parameter values at four burst heights, we desired 
+to develop smooth functions of burst height to approximate the parameter 
+evident in the burst height dependence. The
+
+values. Some scatter was 
+functions chosen should avoid reproducing the scatter, but capture the 
+
+Two burst height functions were
+
+
+important trend of the data. 
+
+
+selected: (1) the constant function, independent of burst height, and 
+
+(2) the rational function 
+C2 h + C3h2 
+
+C1 + 
+g(h) = 2 
+I + Ch 
+
+where h is the burst height and Ci are fit coefficients. By inspection 
+the author determined
+
+of the parameter values at the four burst heights, 
+which of the two burst height functions was appropriate for a 
+parameter. Many parameters were clearly independent of burst height. 
+
+
+Other parameters displayed such severe scatter that it was necessary to 
+use merely an average value for all burst heights. on the other hand, 
+
+
+many parameters showed well-defined trends and were fitted with rational 
+functions. 
+
+
+Fitting the four values of a parameter with a rational function was 
+not a trivial problem. In its application to real EmP prediction 
+problems, the rational function would be evaluated at other burst 
+
+heights. Therefore, the behavior of the rational function must be 
+carefully controlled for all possible burst heights. For example, 
+
+
+simply fitting the four parameter values with rational function 9(h) 
+
+would reproduce the data exactly, but might introduce poles, crossovers, 
+
+
+and similar erratic behavior at other burst heights. To avoid this 
+possibility, several strategems were adopted. First, the fit was to be 
+
+done by use of Courant's well-known penalty function method for optimization 
+with nonlinear constraints, and the nonlinear constraints would be 
+defined so as to inhibit the erratic behavior. Second, the rational 
+
+
+function would be made to fit not the four data, but the piecewise
+
+linear function p interpolating the four data. 
+
+The penalty function used was 
+
+Q(Cir) . [gj) -+ r(I + N2 + N3) 
+
+20 
+
+
+
+The h. are about 40 burst heights on the interval from 1 to 300 m. 
+NI, N2 , and N3 are positive semidefinite functions that are zero when a 
+
+corresponding constraint is satisfied. In the optimization process, Q 
+
+
+is minimized for successively larger values of r by using as each starting 
+point the previous optimum values for Ci As r is increased to 
+infinity, Q becomes optimal for the constraints represented by Ni, N2, 
+and N3. The specific nonlinear constraints were these: 
+
+a. For complex h, no poles of g(h) in the right half-plane of h, 
+2
+
+
+N,Nj = 
+== 1 8[min(O,C4)]2 
+
+b. No crossover to negative values of g(h) for large h, 
+=N2108[min(O,C3)]2/,(200 m) 
+
+
+c. No negative values for g(h) for small h, 
+N3 = [min(o,cl)]2/;(200 m) 
+
+The minimization of Q was done for each value of r by adjusting the four 
+Ci. The descent algorithms described in section 5 were used. For burst 
+heights above 200 m, most driver parameters tend toward limiting values 
+not much different from the value at the 200-m burst height. An excep
+
+
+tion is the amplitude parameter for a ground-induced source. This 
+
+
+parameter should decay monotonically to zero as the burst height increases. 
+For burst heights above 250 m, the three high-energy ground 
+driver amplitudes are made to decay by a factor of two for each additional 
+100 a. Similarly, the three low-energy ground driver amplitudes 
+are made to decay by a factor of 1.2 to 4, depending on the source 
+neutron energy, fcr each additional 100-m increase in burst height over 
+
+250 m. 
+
+
+7, COMPARISON WITH LIQUID AIR EXPERIMENT 
+
+Sidhu et a1 9 measured neutron and secondary gamma ray transport 
+
+through a liquid air sphere for a 14-MeV neutron source. Their 129.3-om 
+
+
+sphere radius was equivalent to an atmospheric range of 850 a. They 
+published (their fig. 7) for secondary gamma rays a value of about 1.3 x 
+
+-
+
+
+1010 cm2-rad (tissue)/source neutron for the 4wr 2 dose at 850-m equivalent 
+range in air. The corresponding value for the NEMP code energy 
+
+-
+
+band 9 (8.19 to 15.0 NeV) high-energy air driver is 1.5 x 1010 cm2-rad 
+(air). One rad in tissue and one rad in air differ by only about 1 
+percent, so these gama doses differ by about 15 percent. 
+
+9G. S. Sidhu, W. BE. Parley, L. P. Hansen, T. Komoto, B. Pohl, and C. 
+Wong, Transport of Neutron and Secondary Gama Radiations Through a 
+Liquid Air Sphere Surrounding a 14-NeV Neutron Source, Nuclear Science 
+and Engineering, 66 (June 1978), 428-433. 
+
+-I 21 
+
+
+The NDMP neutron dose in air cannot be compared easily with the 
+measured neutron tissue dose because neutron kerma* factors are very 
+
+energy dependent in the range from I to 14 MeV. The neutron energy 
+spectrum at the 850-m observer for the NEMP driver is unavailable to 
+allow a conversion fron neutron air dose to neutron tissue dose. 
+
+Shown in figure 7 of Sidhu et a19 are results of TARTNP computercode calculations of the gamma tissue dose. The TARTNP code is a dis
+
+
+crete ordinates radiation transport code used at the Lawrence Livermore 
+2
+
+Laboratories. The results show the 4ir dose to a 2800-m range. 
+
+Differences between the NEMP driver and TARTNP results 
+
+
+appear to be 
+
+
+small (a few percent) from 850 to 2500 m. The NE4P code results are 
+
+roughly 15 pecent lower at the 500-m range. 
+
+
+8. 
+COMPARISON WITH EARLIER APPROXIMATION FOR IONIZATION BY 14-MeV 
+NEUTRONS 
+Longley et a15 developed approximations for EMP drivers for use in 
+their LDIP 2 surface burst EMP environment prediction code. They used 
+
+Longmire's analytic first-scatter theory and many-scatter diffusion 
+theory to describe 14-MeV neutron direct ionization through elastic 
+scattering and (n,p) reactions. Comparison of their 14-MeV neutron 
+driver with the corresponding NEMP driver (energy band 9, direct neutron 
+
+ionization) showed rough agreement and some differences. For dose in 
+air, the NE4P results exhibited a 10-percent longer attenuation length 
+at all ranges and a roughly 50-percent greater amplitude (factoring out 
+the range dependence). Because detailed reaction cross sections 
+
+were 
+
+
+not used for this LEMP 2 driver (per C. L. Longmire, Mission Research 
+Corp.), some disagreement is expected. 
+
+Since the LEMP 2 drivers are independent of the source neutron 
+energy spectrum (except for 14-MeV neutrons), a comparison with the nine 
+energy band NEMP drivers is a complicated undertaking beyond the scope 
+of this report. 
+
+5H. J. Longley, C. L. Longmire, J. S. Malik, R. M. Hamilton, R. N. 
+Marks, and K. S. Smith, Development and Testing of LEMP 2, A Surface 
+Burst EMP Ode (U), Mission Research Obrp., Santa Barbara, CA, DNA 4097T 
+(December 1976). (CONFIDENTIAL)
+
+9G. S. Sidhu, W. E. Farley, L. F. Hansen, T. Komoto, B. Pohl, and C. 
+Wong, Transport of Neutron and Secondary Gamma Radiations Through a 
+Liquid Air Sphere Surrounding a 14-MeV Neutron Sburce, Nuclear Science 
+and Engineering, 66 (June 1978), 428-433. 
+*The total kinetic energy of directly ionizing particles ejected by the 
+
+action of indirectly ionizing radiation per unit mass of specified 
+
+material. 
+
+
+22 
+
+
+
+9 . SELECTED RESULTS 
+Time histories of some NEMP neutron-induced E4P drivers are portrayed 
+in figures 2 to 13. Radial Compton current, theta Compton 
+current, and ionization rate are plotted. Results are shown for two 
+observers 0 and 500 m above the ground for each of two burst heights of 
+1 and 200 m. The ground range from the burst to the observer is 1000 
+
+m. All results are for a source of one neutron in the energy band of 
+8.19 to 15.0 MeV. Although drivers for other neutron energy bands have 
+different amplitudes, attenuation lengths, burst height dependence, air-
+ground interface effects, etc., these results are typical. 
+
+
+In the figures, each driver is represented by a broken line with 
+
+
+identifying symbols. The "F" denotes the high-energy ground driver 
+
+(ground inelastics); the "I" denotes the high-energy air driver (air 
+inelastics); the "G" denotes the low-energy ground driver (ground captures); 
+the "A" denotes the low-energy air driver (air captures); and 
+
+the "N" denotes neutron direct ionization including charged particle 
+ionization. The total for all drivers is represented by a solid line 
+with identifying "T" symbols. Each curve is the magnitude, or absolute 
+
+value, of the driver or total. 
+
+
+Several general observations can be made concerning burst height and 
+observer height variations. High-energy ground drivers are signifi
+
+
+cantly weaker for greater burst heights. Low-energy ground drivers 
+
+decay more slowly with increasing burst height than do high-energy 
+ground drivers because source neutrons penetrate to greater ranges while 
+
+
+decaying to lower energies. Low-and high-energy air drivers and the 
+
+neutron direct ionization driver all are roughly twice as strong for the 
+
+
+200-m burst height as for the 1-m burst height because roughly half of 
+the source neutrons are absorbed by the ground for the lower burst 
+
+height. 
+
+
+The drivers for theta Compton current are all stronger for observers 
+
+closer to the ground surface because of the asymmetry presented by the 
+air-ground interface. High-energy and low-energy air drivers for radial 
+Compton current and ionization rate are relatively insensitive to 
+
+observer height. The time dependence of the neutron direct ionization 
+
+driver is different for the two observer heights considered. This 
+
+
+driver is somewhat shorter in duration near the ground because many 
+
+later-arriving multiply scattered neutrons tend to become trapped in the 
+
+
+ground and do not ontribute to the driver in the air. The low-energy 
+
+23 
+
+
+ground driver for ionization rate is somewhat stronger for the higher 
+observer, more noticeably so for the 200-m burst height than for the 1-m 
+burst height. They differ because the secondary gamma rays (produced by 
+neutron capture in the ground) that drive the ionization rate at the 
+observer must penetrate more soil to reach the shallower observer. The 
+
+low-energy ground driver for radial Compton current is even more 
+
+
+strongly decreased for observers near the ground because the net Compton 
+current flow follows the direction of the gamma ray flux, which is 
+predominantly up out of or down into the ground (perpendicular to the 
+
+radial direction). Higher off the ground, more gamma rays with a nearly 
+radial direction arrive from ground regions close to the burst. 
+
+All drivers contributing to the radial Compton current have the same 
+sign (negative). The theta Compton current drivers may have different 
+signs or even change sign. (By convention, positive is downward.) The 
+theta Compton currents for high-energy ground and low-energy air drivers 
+
+are positive and negative, respectively. The theta compton current for 
+
+the low-energy ground driver is-generally negative at this range from 
+the burst because of a secondary gamma ray "fountain" effect. This 
+effect is due to many secondary gamma rays rising upward from the ground 
+
+
+close to the burst and being turned down toward the ground after a few 
+Compton collisions in the air. However, for observers close to the 
+ground and close to the burst, enough upward-going secondary gamma rays 
+
+are produced beneath the observer to reverse the theta Compton current 
+from negative to positive for a period of time (fig. 9). The theta 
+Compton current for high-energy air reactions was set identically to 
+zero because it was about two orders of magnitude smaller than the 
+
+corresponding radial Compton current and because the available Monte 
+
+
+Carlo statistics for those data were so poor that a reliable fit was 
+
+unlikely. 
+
+
+The time history of the high-energy ground drivers for theta Compton 
+current and ionization rate deserves some explanation. It may consist 
+
+
+of two pulses: one from the initial arrival of neutrons at the ground 
+
+beneath the burst and the other from the arrival of neutrons at an area 
+
+
+roughly midway between the burst and the observer. The secondary gamma 
+rays produced in the ground have an attenuation length considerably 
+greater than the mean free path of the neutrons. This greater length 
+causes contributions from reactions (per unit ground surface area) 
+beneath the burst to be more important than contributions from reactions 
+very near the observer. However, gamma rays originating in the ground 
+closer to the observer are less attenuated by the ground because of 
+their higher angle of departure from the ground. This complicated 
+
+24 
+
+
+-.---.--------
+
+
+
+behavior was approximated by the two pulses mentioned. The approximation 
+gives reasonable agreement with the Monte Carlo data, but too 
+much importance should not be attached to the detailed structure of the 
+time history approximation, expecially since the data time bins were 
+one-third of an order of magnitude wide. The second pulse of this two-
+
+
+pulse structure is not observed in the data (and the driver) for radial , 
+Compton current. Also, the second pulse is not observed in the data 
+(and the driver) for ionization rate if the burst height is very near 
+the surface (fig. 4 and 7) or if the observer is very high (fig. 13). 
+
+
+6_ , I I 
+10" 
+Figure 2. 
+10"' 10"' 10"I"1"1TIME 
+tS) 
+Radial Compton current for 1-m burst height, 
+observer height, and 1000-m ground range. 
+0-m 
+25 
+
+
+I A 
+
+o~.A. 
+
+ar.-. -. * 
+
+p. 
+TIME (S) 
+
+currefor 1-n burst height, osrne 
+oberheight, and 1000-rn 
+
+
+Figure 4. Ionietioon 0-
+
+
+ground range. 
+
+
+26
+
+
+
+0
+
+
+C0 
+
+U. 
+o I 
+Or 
+
+100-range.
+
+
+observer...heiht an -run 
+
+
+010
+
+
+TIME (S) 
+
+Figure 5. Raditl Ompton current for 1-rn burst height, 500-rn 
+
+observer height, and 1000-n ground range. 
+
+
+27-. 
+
+
+4-:7 
+
+Z:, 
+
+-40 
+
+TIME (S) 
+
+Figure 7. IodiatiComprte forren f-rn2-burst height,
+
+
+0-noee 
+
+
+oberheight, a n ground range.
+
+
+d 1000-a 
+
+
+28. 
+
+-
+--------j% 
+
+c--T . 
+
+Cr.. 
+
+I-. U 
+
+TIME (S) 
+
+Figure 90. Ionietioon for 200-n 0-
+
+
+curree burst height, oerno 
+oberheight, and 1000-rn
+
+
+ground range. 
+
+
+ft*29 
+
+
+
+LOJ 
+
+m1 \\'
+
+Ger N 
+
+cl.-*' 
+
+cIa I 
+
+TIM
+
+(S) 
+11-ailCmpo'urn egt
+
+
+Fiur or20mbrt 0
+
+
+100-rnrun
+
+
+Figur 11 obsdierve r pon c re t fheight,r 2 0 n bu ans e 5n 
+
+"N 
+
+:6 
+
+
+z. 
+u-a 
+
+100-4 10--10 
+
+TIME 15) 
+
+Figure 12. Theta Compton current for 200-ui burst height, 500-mn 
+observer height, and 1000-mn ground range. 
+
+30 
+
+
+i1 \ 
+
+
+T I 
+
+hg and 1000"m g 
+
+
+1 CONCLUSION 
+
+
+, a Zi,,, 4 j 
+
+th r peitn drir fro nersrabrt,
+
+°M o (S) alloin
+
+TI 1E 
+
+Figure 13. Ionization rate for 200-r burst height, 500-n obseergy 
+height, and 1000-r ground range. 
+
+
+chic oa n bus hegh intena-ufcjeie h akg 
+
+10.• CONCLUSIONS
+
+
+cosssofsprt sae n tim-deedn drvrsfr aia n 
+
+The NEMP neutron-induced P driver package represents the state of 
+the art onP allowing
+
+
+for predicting drivers from near-surface bursts, 
+flexible representation of any weapon's neutron energy spectrum end 
+choice of any burst height in the near-surface regime. The package 
+consists of separate space-and time-dependent drivers for radial end
+
+
+theta Compton current and ionization rate, for high-and low-energy 
+
+reactions in the air and the ground, for nine source neutron energy
+
+bands, for any near-surface burst height. 
+
+This report has described the develoment of this iPdriver package
+
+for neutron-induced sources, for use in the NUI code for DIP environment 
+prediction for near-surface nuclear bursts.* The development was 
+
+based on the concept of obtaining a global fit of certain well-chosen
+
+functionals to Monte Carlo transport data over the entire set of volume 
+detectors and time bins. The global fit obtained in this manner offered 
+several advantages over fitting with olynomials, including the 
+effective elimination of Monte Carlo "noise" and the possibility of 
+
+
+reduction of error below the level of Monte Carlo statistical error. 
+
+
+The fit also involved far fewer degrees of freedom. The global fit was 
+
+obtained by minimization of a penalty function representing the badness 
+
+31 
+
+
+~ J 
+
+
+of fit. Because of the large amount of computer time involved, highly 
+efficient minimization algorithms were employed. The difficulty of the 
+minimization depended, among other things, on the variance of the Monte 
+
+Carlo data, which averaged about 20 to 30 percent. The burst height 
+dependence of the fit parameters was explicitly obtained for burst 
+heights from I to 250 m. Extrapolation methods were devised for burst 
+heights greater than 250 m. 
+
+Comparison of ionization from gamma rays induced by a 14-MeV neutron 
+
+
+source with experimental measurements gave good agreement. Comparison 
+
+with the LD4P 2 direct neutron ionization driver for 14-MeV neutrons 
+revealed significant differences. Typical results were discussed for 
+
+two burst heights and two observer heights, for the 8.19-to 15.0-MeV 
+source neutron energy band drivers. 
+
+
+32 
+
+
+
+Ij 
+
+
+LITERATURE CITED 
+
+
+(1) 
+William T. Wyatt, Jr., A Near-Surface Burst D4P Driver Package for 
+Prompt Gamma-Induced Sources, Harry Diamond Laboratories HDL-TR1931 
+(September 1980). 
+
+
+(2) 
+H. J. longley, C. L. Longmire, and K. S. Smith, Development of NEMP 
+(U), Mission Research Corp., Santa Barbara, CA, HDL-CR-75-001-1 
+(April 1975). (SECRET--RESTRICTED DATA) 
+
+
+(3) 
+H. J. Longley and K. S. Smith, Developments in NDGP for 1977 (U), 
+Mission Research Corp., Santa Barbara, CA, HDL-CR-77-0022-1 
+(January 1978). (SECRET--RESTRICTED DATA) 
+
+(4) H. J. Longley and C. L. Iongmire, Development and Testing of LEMP 
+1, Los Alamoa Scientific Laboratory, N4, LA-4346 (April 1970). 
+(5) 
+H. J. Longley, C. L. Longmire, J. S. Malik, R. M. Hamilton, R. N. 
+Marks, and K. S. Smith, Development and Testing of LDIP 2, A 
+Surface Burst EMP Code (U), Mission Research Corp., Santa Barbara, 
+CA, DNA 4097T (December 1976). (CONFIDENTIAL) 
+
+
+(6) 
+D. A. Sargis, E. R. Parkinson, J. N. Wood, R. E. Dietz, and C. A. 
+Stevens, Late-Time Sources for Close-In EKP, Science Applications, 
+Inc., La Jolla, CA, DNA 3064F (August 1972). 
+
+(7) 
+H. S. Schechter and M. 0. Cohen, Energy Deposition Rates and 
+Compton Electron Currents from Low-Altitude Bursts as a Function of 
+Source Energy, Mathematical Applications Group, Inc., Elmsford, NY, 
+HDL-CR-77-020-1 (November 1977) 
+
+
+(8) 
+R. Fletcher and C. N. Reeves, Function Minimization by Conjugate 
+Gradients, Computer Journal, 7 (1964), 149-154. 
+
+
+(9) 
+G. S. Sidhu, W. Z. Farley, L. F. Hansen, T. F)moto, B. Pohl, and C. 
+Wong, Transport of Neutron and Secondary Gamma Radiations Through a 
+Liquid Air Sphere Surrounding a 14-MeV Neutron Source, Nuclear 
+Science and Engineering, 66 (June 1978), 428-433. 
+
+
+33 
+
+
+
+APPENDIX A.--A TWO-POINT QUADRATURE SCHEE4 
+
+Integrating a driver functional over the entire volume of a volume 
+
+detector can be very time-consuming if unsophisticated quadrature 
+
+
+methods are used. The volume detector concerned is a square toroid, 
+that is, a toroid with a square cross section in coordinates (xz,#). 
+The toroid is bounded by X ,XZ, and Z , where x is the ground range 
+from the coordinate center an z is the height above the ground. The 
+driver has azimuthal symmetry around the center of the toroid (x -0) so 
+
+that an integration in independent variable + is trivial. Thus, an 
+
+integral over detector volume 
+
+
+J; L
+
+I . f(x,z)(x 2 + z2) /2dx dz d# 
+becomes 
+
+I= 2w r2 fZ 2f(xz)(x2 + z2)1/2 dx dz 
+
+
+If f(x,z) describes a driver functional, the salient spatial gradients 
+
+of f(xz) are (1) in the vertical (z > 0) direction due to proximity of 
+
+the ground and (2) in the radial direction from the burst due to 
+
+geometric and atmospheric attenuation. A particularly accurate Gaussian 
+quadrature rule would use the geometric and atmospheric attenuation as a 
+weight function. 
+
+
+Our goal is a Gaussian quadrature rule for the integral 
+
+
+= v(x,z)w(x,z;a) dx dz , 
+
+where v is a function of x and y and w is a weight function defined by 
+
+
+w(x,z;a) = exp(-ar)/(I + r2) 
+
+r -[x2 +(z -h)2 ]1 o 
+
+The burst height is h. The advantage of this weight function rests on 
+
+the fact that it represents the actual spatial dependence (for a 
+
+
+suitable choice of a) better than a low-order power series would. 
+Parameter a is essentially the atmospheric attenuation coefficient (the 
+
+reciprocal of the attenuation length) and is available for use during 
+
+
+35 
+
+
+
+APPENDIX A 
+
+
+the calculation of a driver integral. Thus, we may exploit our know
+
+
+ledge of a to construct the quadrature based on weight function 
+w(x,z;a). In computer program BIGFIT, we actually first construct a 
+family of quadrature rules for a range of values ai. Then when a driver 
+integral is being calculated, the mi nearest to a is determined, and its 
+
+corresponding quadrature rule is used. In this way, the construction of 
+the quadrature rules is kept out of the inner program loops. 
+
+
+For the J integral quadrature rule, we seek quadrature points 
+
+(xI z1) and (x1Iz ) vith weight coefficients w and w , respectively. 
+
+0
+
+
+We require exact Integration of Taylor series terms Or x(and z0), 
+
+2
+
+
+xl,zl1z , and z3. This requirement yields the following conditions on 
+x 1 1Z1 Z,2 ,Wl, and w2 
+
+wl + w2 =MOO 
+
+
++ w2xI =
+w1x1 M10 
+
+
+wjz1 + w2z2 = M01 
+
+
+W1Z 2 + w2z2 = M02 
+
+3
+
+
+WIz3 + w~z-1403 
+
+
+where 
+
+
+w fr2 1 2 xiziw(x,z~a) dx dz 
+
+
+This quadrature is separable in x and z and easy to obtain. Cbviously, 
+
+
+x1 = 
+
+t4O/M004 
+
+
+Define the polynomial 
+
+
+P = (z -Zi)(Z -z = 0 , 
+
+or 
+
+
+P Z2 -Az + B 0. 
+
+
+36 
+
+
+
+APPENDIX A 
+
+
+multiply the preceding equations by A and B and add: 
+v1B + v2B = BKO0 
+
+w1 (Azj) + W2 (AZ2) -AM01 
+~~Z2)+ v2(z7)" 1402 
+
+
+wj(P) + w2(P) AM01 + B1400 + M02 
+
+
+wiz1(B) + w2z2(B)'B10 
+wiz1(Az1) + w2z2(Ai2) -AM02 
+wlz~z )+ w2z2(z2) . M3 
+
+
+wizi(P) + w2z2(P) =AM402 + B10 + 1403 
+
+Since P -0, we have 
+0
+
+
+A1401+UKB14+M02 
+
+
+0
+
+
+"40 2 + BN + M03or 
+solving for A and B, 
+A -(M~03is00 -1042 01)/C 
+
+
+B -(M2 140143)/C 
+
+01 
+
+
+Therefore, 
+(A2 _ 4B)1/2]/2 , 
+
+
+I -[-
+A + (A2 -4B)1/2]/2 
+
+37 
+
+
+
+APPENDIX A 
+
+
+Then 
+
+
+w+w ,
+
+2 00 
+
+W 31+ w2z 2 -40 1 , 
+
+or 
+
+
+w1= (C401-Mooz2)/C'l -2) 
+
+-MOO -W
+
+
+w2 
+
+
+Suppose we seek to integrate 
+
+
+K =I:iJ(x,z) dx dz 
+
+where p(x,z) has dominant spatial variation w(x,z;l). We rewrite K as 
+
+and apply the quadrature rule developed to get 
+
+[,(xi.zi) 1 [,,(x 1, ]) 
+
+1 ~ w2Lwxl,.2,a)
+
+k WkwWLw~xl,zl;*TJ+1LT --+wL jz, I • 
+
+It is best to combine W(xlzI1 a) with wl and w(xoz 2 1a) with w2 to 
+
+obtain the modified rule 
+
+
+K a W,.p(x ., 1 ) + w2p'(,,z2) 
+
+where 
+
+
+w, WwI/w(xl zl a) 
+
+
+w2 w2/w(x'z 2 ;*) 
+
+
+Thus, a unique quadrature rule (x1 .,z. ,z,w., and w2 ) was obtained 
+
+for each combination of volume detector ana before commencing the 
+
+descent algorithm to fit a driver functional to Monte Carlo data. Then 
+
+during the descent, the numerical integration of K-like integrals 
+proceeded extremely rapidly. 
+
+
+38 
+
+
+= 
+
+
+Th~is appendix lists thUSTNvrio fte decn algorithms 
+
+39 
+
+
+Al 
+
+
+
+APPENDIX B 
+
+SUBROUTINE TALCG(FNXTOL,3,GXULDSTEPVAL.MNFNJ 
+
+
+C 
+WILLIAM To WYATT. JA., 1976.
+
+-BY 
+
+C 
+C USING THE METHOD Of CONJUGATE GRADIENTS, THIS SUBROUTINE SEARCHES FOR 
+C THE MINIMUM OF THE SCALAR FUNCTION FN 9 GIVEN A STARTING POINT X 
+C X IS A VECTOR Of LENGTH N . AN ELEMENT OF X IS NOT ALTERED 
+C DURING THE SEARCH If THE CORRESPONDING ELEMENT Of TOlL IS NONC 
+POSITIVE. OTHERWISE, THE SEARCH CONTINUES UNTIL THE FUNCTIONDOES 
+C NOT DECREASE WHEN X IS CHANGED BY AS RUCH AS TOLOSTEP 9 WHNERE THE 
+C LARGEST ELEMENT IN STEP IS UNITY* 
+
+
+CTHE SEARCH NAY SE ABORTED AFTER ABOUT NFN EVALUATIONS OF THE 
+
+
+C FUNCTION FM IF NFN)0 v OR AFTER -NFN GRADIENT EVALUATIONS IF 
+
+
+C NFN<O 
+C 
+C THE FUNCTION FN MUST BE DECLARED EXTERNAL IN THE CALLING PROGRAM. 
+C X , 70L , M v AND NFN RUST BE DEFINED WHEN THIS SUBROUTINE IS 
+C CALLED. THE SUBROUTINE RETURNS THE MINIMUM LOCATION IN X a THE 
+
+C MINIMUM FUNCTION VALUE IN VAL v AND THE NUMBER OF FUNCTION 
+C EVALUATIONS IN ABSINFN) o NEN IS RETURNED NEGATIVE IF THE SEARCH 
+C IS ABORTED AS DESCRIBED ABOVE. THE ARRAYS B 9 6 9 XOLD 9 AND 
+C STEP Of LENGTH M ARE USED FOR INTERMEDIATE RESULTS. TDL AND N 
+C ARE RETURNED UNCHANGED. 
+C 
+C THE PROGRAM CALLS THE SUBROUTINE QUAD TO LOCATE A MINIMUM ALONG A 
+C GIVEN DIRECTION. 
+C 
+C AN ELEMENT OF X MAY BE COMPELLED TO REMAIN POSITIVE DURING THE 
+C SEARCH. BY USING THE TWO STATEMENTS IMARKED WITH "CCCCCI lIN THE 
+C PROGRAM BELOW: 
+C TOL4I I-TOLEIIJ 
+C GO TO 5 
+C 
+
+
+C THE METHOD ESTIMATES THE FUNCTION GRADIENT BY FINITE DIFFERENCES OVER 
+
+
+C AN INTERVAL TOLOSLASH o SLASH HAS BEEN SET TO 0.01 IN A DATA 
+C STATEMENT. ROUNDOFF ERRORS WILL CAUSE POOR ESTIMATES FOR THE 
+C GRADIENT IF TOL IS TOO SMALL OR If MACHINE PRECISION IS 
+C INSUFFICIENT. IDOUBLE PRECISION IS RECOMMENDED FOR COMPUTERS WITH 
+C DEFAULT SHORT PRECISION WORDS.) 
+C 
+C 
+
+
+DIMENSION X6M).TOLIN),BiM),GINIXOLDINISTEPI 
+
+
+DATA SLASH /0.01/ 
+C 
+C INITIALIZE GRADIENT AND DIRECTION ARRAVS AND OTHER QUANTITIES. 
+
+
+MAXFNsNFN 
+
+
+NFNaO 
+
+
+IPASSmO 
+
+5 
+CONTINUE 
+D0 10 Is1,M 
+
+
+ll113.. 
+
+10 6S1181.0 
+
+
+VAL.FMIXI 
+NFN*NFN.I 
+
+
+C 
+
+
+C MINIMIZATION LOOP BEGINS HERE. CHECK FOR MAX FN EVALUATIONS. 
+
+
+CONTINUE
+
+
+4100C 
+
+
+40 
+
+
+APPENDIX B 
+
+IFIIPASS.6.-IAXFN.ANO.NAXFI.LT.03 GO TO 900 
+
+IFINFUJY .NAXFW.AND.MAXFN.61 .0) 65 TO 900 
+C 
+C FIRST, MOVE X TO XOLD. 
+
+
+SUNOLO.O 
+DO 110 I-It" 
+XDLD6II=1611 
+
+
+110 
+SUNOL~wSUNOLD*6IIO2 
+IFISUMOLD.EQ.0.01 60 TO S 
+FNOLD&VAL 
+
+
+C NEXT, GET GRADIENT AND NW SEARCH DIRECTION. 
+SUMS0.0 
+DO 120 I110 
+661) -D.0 
+IF6TOLIII.LE.01 £0 TO 120 
+XGillXOLDIII*SLASHOtOLtI I 
+VALaFRIX1 
+
+XIIK-OLDII) 
+
+66110 IVAL-FNOLD ISLAS" 
+
+120 
+SURRSUN46I1*SZ0 
+SUb SUM/SUNOLD 
+DO 130 I19. 
+BEi) a-G1I)*SUM*sEII 
+
+
+130 STEPEII)l 
+C 
+C SCALE STEP SO EACH ELEMENT IS oLE. 1.0. 
+
+
+SAVE-0.0 
+DO 140 I=1,M 
+TENPaABSSTEPEJ II 
+IFITEMPoGT*SAVEI SAVE-ATENP 
+
+
+140 
+CONTINUE 
+IFISAVEoNE.0.O) SAVE81.0/SAVE 
+
+
+C TAKE TRIAL STEP. 
+DO 150 Im1,M 
+STEP IlluSTEPEI ISIOL1IISSAVE 
+
+
+C LOCKUP PARAMETER TEN6DING TO ZERO. 
+
+IfiSTEPI1).r.E.D.O.OR.XOLDIII.GT.TGLSI)I 60 TO 150 
+CCCCC TOLIII--TOLIII 
+CCCCC 60 TO 5 
+
+
+ISO 
+Xil)*XULD6IIISTEPII) 
+VAL.FUNl 
+
+
+16P3-Nfko1 
+
+
+IFIVALo&E.FNOLD) 60 TO 910 
+C MINIMUM IMPROVED. 00 SEARCH FOR NINMUN, 
+CALL QUADIFMMOLDVALVALXOLD.STEPXNFNI 
+CCCCC PRINT1 979VAL 
+91 PORMATIO NEW VAL*,OE2O.S 
+C 0 TO 100 
+
+
+C 
+
+
+C FlUISHED. 
+900 NFka-t6F% 
+0O 905 IalrM 
+905 IOLIII&ASTOL1III 
+RETURN 
+910 CONTINUE 
+IFSIPASS.6T.SI 60 TO 915 
+
+
+41 
+
+
+APPENDIX B 
+
+
+C TRY THIOMINC OUT A BAD FARANETER IF IN EARLY STAGES OF NIUINUZATIOU. 
+DO 914 Is1,N 
+IFGSTEPI5.EQ.0.OI 9O TO 914 
+SAVE=STEPIuI 
+
+STEP 111-0.O 
+
+
+VAL sFNIX) 
+NFsaNFNG1 
+
+
+IFIVAL.&E.FMDLDI 60 TO 913 
+
+
+* CALL QUAD SF3 .KOLDVALVALXOLDPSTEP.Z .1113 
+IllaO.0 
+
+
+GaIlao.o 
+
+
+6010O 100 
+
+
+*913 SrEPSII=SSAVE 
+
+XIl~aOLOIII.STEP(I3 
+914 CONTINUE 
+915 CONTINUE 
+C RESTORE X AND VAL* 
+
+
+VALsFNOLD 
+
+
+DO 920 I19. 
+
+
+TOLIIIuA9SITOLIII 
+920 XSi)sXOLDIlI
+
+
+RETURN 
+
+END 
+
+
+42 
+
+
+
+APPENDIX B 
+
+
+SUBROUTINE OUAD£F~ENPARAN.FNOLD.VAL.XOLD .STEP.X.NFNI 
+
+
+C 
+-BY WILLIAM To WyATTv A., 19U. 
+
+C THSSUBROUTINE FINDS THE NININUK OF THE FUNCTION FM III THE DIRECTION 
+C STEP, GIVEN FNOLDuFUSXOLDIv VAL&FRIX1. XaXOLS.STEP, ANO RPANAN ITHE 
+C LENGTH Of VECTORS Xv XOLD* AND STEPl. A NECESSARY CONITIUN IS THAT 
+C VAL <C MOILD. MFE. A COUNTER FOR FUNCTION CALLS* IS INCREMERTED FOR 
+C EACH EVALUATION Of FR. THE SUBROUTINE RETURNS A 010IKU VAL ANS 
+
+C ARGUMENT X SUCH THAT VALaFUIXte AND STEP SUCH THAT STE#&X-XOLS. 
+C 
+
+C THE ALGORITHM USES QUADRATIC INTERPOLATION ACCELERATED DV A LOGAAITOC 
+RIC SISECTION-TYPE SEARCH* 
+
+
+C 
+
+DIMENSION XOLDINPARANI.STEPINPARANI.RINP*RAKI 
+C ICOUNT LIMITS THE NUMBER Of FUNCTION EVALUATIONS TO A NBER 
+C CONVENIENT FOR THIS APPLICATION. THE USER MAT CHANCE IT. 
+
+
+ICOUNTuANAX113.0,SSRT6FLOAT6NPARAN)I I 
+
+
+FAuFMOLD 
+
+Fl=VAL 
+
+
+C LOOK FOR A FC.1E.FD. 
+
+10 
+SCSU*1O.O 
+DO 20 31,NPARAN 
+XlII'XOLDlI?#STEPfIISC 
+
+
+20 
+CONT INUE 
+
+FCwF NIx 
+
+NfuawFN.1 
+IFIFC.6E.FD) 6O TO 1(tOC TRY AGAIN. 
+
+FAa'S 
+FD-FC 
+SAwSB 
+s3.sc 
+6O TO 10 
+
+
+C BEGIN NODIFIED QUADRATIC INTERPOLATION FOR NINlINUff 
+100 CONT INUE 
+
+ICBIC.1 
+IFlIC.GTeICOUNT) 10 TO 110 
+YENP aISC-Sl)lSD-SAI 
+IFITENPogTo4,OI 6O TO 110 
+IFITENP.LTo0.25) GO TO 120 
+
+
+IFlFAoEQ.FU.ORoFB.Eo.FCI 6O TO 170 
+CAaIIFA-FB)ISA-SBI-IFS-FCIIISS-SCI)ISSA-SCI 
+IFfCA.EOO0) 6O TO 110 
+C~slFA-FBIIISA-SSI-CA'GSA*Slf 
+
+
+SXu-CD/12*00CAI 
+
+
+60 TO 130 
+110 CONTINUE 
+C EITHEN CONVERGING VERY WELL, OR POORLY. USE LOGARITHMI SEARCH. 
+
+TEKP.SORrITENPI-1.0 
+
+
+SXsSD*ISD-SAISTENP 
+
+GO TO 130 
+120 TEPSSRTI1.0ITENPI-1.O 
+
+SN.SD-ISC-5S)*TfNP
+
+
+130 
+CONTINUE 
+IFISX.ES.S5.OR.SX.LE.SA.ORoSX.GE.SCI 60 TO 110 
+
+
+43 
+
+
+.~s. 
+In 
+
+
+APPENDIX B 
+
+C EVALUATE FUNCTION AT INTERPOLATED POINT. 
+
+
+DO3 135 IaleNPAIAN 
+XIII .XOLDIII4SlEPlII*SX 
+
+
+135 CONTINUE 
+
+
+FXSFNIXI 
+NIISUNFN.1 
+
+
+IFBFX*LT.FBI 60 TO ISO 
+C Not NEW minimum. 
+
+
+IFISR.G.SII 60 TO 140 
+
+
+6O To 300 
+140 SC&SR 
+
+
+FCaFR 
+Go TO 100 
+I50 CONTINUE 
+C Is MN HMINUM. 
+IFlSX*LTeS&) SO TO 160 
+$Anse 
+
+
+FAxFS 
+
+
+SBU*SX 
+
+FllxFX 
+GO TO 100 
+160 SCuSS 
+
+
+FC-FS 
+
+
+S * SR 
+
+F5mFX 
+6O TO 100 
+110 CONTINUE 
+
+
+VALm*FS 
+
+00 160 I-1,NPARAN 
+STfP IIJuSIEPII *SS 
+
+
+XII~zXOLDIII.STEPlI) 
+
+
+Ito CONTINUE 
+
+
+C FINISHED. 
+RETURN 
+END 
+
+
+44 
+
+
+DISTRIBUTION 
+ADINISTRATOR ASSISTANT to THE SECRETARY UP DEFENSE DIR.ECTOR 
+DEENE DOCMATIOW CUETE 
+ATM DCC-TCA (12 COPIES) 
+CAMERO STATION. SIIIU S 
+ALEXMNIA. U 22314 
+ATOMI mUSTr 
+ATM ECUYIVE ASSISTANT 
+WASHflSGTO, WC 20301 
+.3DIT STEGC 5AGT EBUSIN 
+STAFF, JCS 
+OFFUTT Ara 
+ATMN MAN 
+DIRECTOR ATTM i36 
+CGSINDERDEFENSE ADVAIcED aCn p3.0. AGENCY AT" mi-TNo" LIBYA"T 
+US AUSY ROCK&.ED GIP (SURl) ARCHITECT BUILDING CWAA HE 66113 
+*AT" LTC JAM R. 131EDY. JR. ATMHTbO 
+cuIE, PHYSICS 6 NTE BROWNI mo00 WILSO BLVD. CHIEF 
+FPO RIM I~ 09510 ARLINGTON, Ux 22209 LIVENSONE DIVSION 
+FiEm COMMANDDA 
+CONAIM DIRECTOR DEPAYMUT OF DEFESE 
+UK BUMyAUIPJI!r MATERIEL 
+READINESS COMMAND 
+DEFENSE CIVIL PREPAREDN1ESS AGENCY 
+ASSISTANT DIRECTOR FDA RESEAECH 
+LAWREOM LIVXMMOS LABORATORY 
+P.O. BOX 606 
+ATm SaAR-LEP-L, TECHNICAL. LIBRARY ATMUAmeNX OFFI0CER ATM FCPRL 
+ROCK ISLAND, IL 61299 ATM HE (ED0) LIvEUSORE, CA 94550 
+COSIANDERt 
+ATM P0 (5E) 
+WASHINgrON, vC 20301 NATIONAL COMMUNIICATIONSYSTU 
+4 us AmSy "MISIIS MUNITIONS 
+CENTERS SCHOOL DeFUs CaSIIRICATIONS ENGINEERING 
+OFFICE oF HINMNGR 
+DEPARNENT OF DEFENSE 
+ATM ATSK-CTD-F CENTER ATM NCS-TS, CHARLES D. 6SW60N 
+REDSTONE ARSENAL, AL 35609 ATM COOER.720, C. STANSUERRY WASHnIGON c 20305 
+ATm coot R.123, TUNH LID 
+DIRECTOR AYTMCODE R400 DIRECTOR 
+US AMY MATIEL SYTEMS 1060 WISHLD AVENUE NATIONAL SECURITY AGENCY 
+ANALYSIS WTIVITY DUsTOW. UA 22090 DEPARTMENT OF DEFENSE 
+ATM UXT-NP ATM R-52, 0. VAN GUNTEN 
+ATM ORXEY-PO DIRECTOR ATMUS232. 0. VINCENT 
+ABEN "MOVIG GROUND, NO 21005 DEFSES CGSIIAIICATIONS AGENCY FT. HEADS, NO 20755 
+ATm CCIV C312 
+DIRECTOR ATM cooE C313 UNIDERSET oF DEF FON Rae a XNMGM 
+UK BAMYBALLISTIC REEARCH IABORATORY WASHINGTO. OC 20305 DEPART14ENT oF ENSEa 
+ATM DRDA-TM-S (STINFO) ATMHG. DARtSE 
+ATM DOZER-AN. W. MMWfNTWP DIRECTOR ATMK5856 (06) 
+ATM ORSTE-EL DEFENSE nvTELLION GENCY WBSKDINGZOC 20301 
+ATMU=="R-IN ATMH 306-33. 
+ARDEEN pp1IN GROUD, ND 21005 ATM NDS-3A4, 10610610 PLAZA 
+WASHINtON. DC 20301 
+COMMANDIR 
+ED SYTEM CaSIAIID 
+U.S. AMYTELECTRONICS TECHNOLOGY DEPARTMENT OF THE ARMY 
+ANEDDEVICES LABORATORY DIRECTOR. P.O. BOX 1500 
+ATM DKLET-OD DEFUNSE NUCLEAR AGENCY ATM UNDIC-BOLID 
+FORT mnOsooTn, Nw 07703 ATMURATE6 HUNTSVILLE, AL 35607 
+ATMUDUST 
+TEXs ImmTummNT, INC. ATM RAEV COSSANER 
+P.O. B3OX22601S ATMNTIML ERhDCON TECHNICAL SUPPORT ACTIVITY 
+ATTM FRANK53POBISNI, ATM STY?. DEPARTMENT OF THE ANMY 
+DALLAS, TX 75266 ATM VLIS 
+wASHINGTON, VC 20305 
+ATM DEws-K. A COHE 
+arm DEtioT-IR. S. Hurm 
+TELEDYNE BROW ENGINEERING FORT NMNJRN. NW 07703 
+CS>SINGS REERON FRE COSIAKDEN 
+ATm DR. aLVIN L. PRINCE, MS-44 FIELD CaUSAND CON1ANDIR 
+NIRWIVILLE, AL 35607 DEFENSE NUCLEARAGENCY 
+ATM ICtR 
+UK BUSY AUSOR CmIE 
+ATTMTECHICAL LIDUAR 
+ENGINEERING SIS1IMS LIDRARY ATMSVCSWI. J. SMITH FORT 350K, KY 40121 
+345 MAST 47TH STRET ATM FCIAC 
+ATM ACQUISITIONS DEPARTMENT 
+MMWAR, MY 10017 
+KIRTLAND AnR, M 6711S ClEUSIDOR 
+us BUSY CopeS-=C SUN loomA 
+DIRTO AGENCY 
+DIRECTOR wnTERERVCt NUCLEAR WEAPONSSCHOOL ATM CO-PROO-S 
+AHMED PO 28 PADIODIOLDOY RESEARCH ATM TIT ATM COCU--82 
+INSITUTE KIRTLAND APP, ON 67115 P MaCHUCA, AS 65613 
+DEFEmx NUCEAR AGECY 
+NATIOoNA AVAL MEDICAL CoNTOR .1013? CN1315 OF STAFF COMMIANDER 
+ATMS RESEARCH PROGRAMWOONDIATING ATMNJ-3 UK AMYTCOMUNICATIONS COMANSD 
+OFFICER WBSNINGTON, DC 20301 CON"?T DEVEIOHWN DIVISION 
+smETRsma, MD 20014 ATM BISI-CO-NO 
+FT. HUACNCA. BE 65613 
+
+45 
+
+
+DISTRIUTZON (Cant' d) 
+
+cml., 
+
+FTWE-I-CHAG 
+
+cOaNMINoGzi
+
+98 AM! CUICATIONS ST$ AQWYC CIVIL 
+
+moxxxxxxo LAmONATURT 
+
+NAVAL WEAPONS EALUATION VMCILIT
+
+ATIN 001-RD-I C01-AD-SY 
+
+ORVALCONSTRUCTION BATTALION 
+
+COMMU IMP1IAN a IO "af
+
+FORT HOWOKnN, NW 07703 
+
+ATTN COOS LOUA (LIBRARY) ATTN myi AT-6 
+AMTN COOSRl 
+
+ALSU0JS1aE, M 87117
+
+PROJECT OFFICER 
+
+PONRTEBMEE, CA 93041
+08 AM~YCaOMUNCAmoi SEE a 
+
+
+WvFIC Or ORAL SMISAIC
+
+0xv COMMND 
+
+COMANDIR 
+
+
+ATMTOD 427
+
+ATTN DMP-ATC 
+
+NAVAL AIR 9189 
+
+8 COMMAN ARLINGTON, VA 22217
+
+ATMN DOI-TDB-]Bsl 
+
+ATMI AIR-3501P 
+FORT IMOrWN. W. 07703 
+
+
+WASHINIGTON,OC 21360 
+
+MAMAo 
+
+DIVISION waNGINW 
+STGIC SYSTEMS FROMM OFFICE
+
+COSEANDER 
+
+NAi VYOPAyNumP
+
+USARYZNN~
+
+IVHUOIL9 
+
+NAVAL ZLECTRONIC
+
+P.0. 
+SYSTERS COMMS ATTN ISP-2701, WWUPTSUSwg
+.
+
+SON 1600, WEST STATION 
+
+ATM4INS 117-21S 
+
+ATTN VP-2342, RICWMR L. CoIWm 
+
+M- 
+COUANGTON, OFC 236 
+
+ART -TINCH UsN453 
+
+ATM~NVA AL.AC 
+
+STAOTTIONM-233
+
+COUIIS, ATT 350TCMANDIRDAIODV 
+
+ATMPONCE30
+
+TR.NICA 
+£341N IST99NC NAVAINIA HEAD, 306403 WAH 
+
+N
+
+UAMYININEL ANAYSI 
+
+COM01,N.IDEAM~ 
+
+AHREA N.T
+
+4000ASLINON 
+
+AWNVRUUISRAMCLCIRARY4 
+
+PAC APER 392 
+AM 2201. INLOG AC 
+
+
+ATMNCODE 14240,S .LCTA 
+
+AEROEASUSIASYSTEMS DIISONUC S
+
+AWLINTON.SA STTO
+
+2221 
+
+DIZEG, CA 9940 
+
+ATTN WIN-2-9 
+ATTUIN 200, LM AATM 
+
+MUM
+
+CAINTK.R222CMADN 
+
+OIFFCCER 
+
+AITTN CARTMO APB, 45333I
+
+uS 133W MISSILENAVAL 
+
+ORDAME ST*OATO TATNS 
+
+a OWWWMiW 
+
+ATMTNADA410DIZAION DI.SW~ 
+
+ATRTNCE. CA "WAIN
+
+UATR~MDEA WALLAG 0.OE
+
+&SC IATN CWA2D, HD 2 SU O64N 
+
+ATERCATTTN HALL3E3GWTATINIS ONO ATNCW62,ICRLSALE 
+
+ATM3 TM, M7. C8Io
+
+A00N ARNGTONLV 
+
+
+AUERNNDNCO T OOK 14624 
+
+ATlRIKAB F 22
+
+ATTN TECHICAA IRR 
+
+RA OTRDSSHO 
+RLINSTON. ARU2221A 
+
+
+WouANtO, C 20375 
+
+ATTN STEV PI 
+ATMNNU
+
+COPOOS
+
+IRDER 
+
+FIArm ASS, 07117
+
+Can
+
+US ANKY INDLA SRUIIRCAI ARVAL 
+
+ISIPAC LABNRATOR ATM XER
+
+750DEACT OAD 
+
+AW COD 40,MNAL .RT DARTOR 
+ATUIWIS99RG WIL073.JNNO 
+
+ATMNCODE 66423, 
+
+RCAD L. W3FF? AIM WEP. LAILLO
+
+AT"N Om-T
+
+A.T 
+COD 624RT 
+
+U
+
+ATTN DR.K-R 
+
+NASNINGTOW, DC 20362 
+
+INAMNEI V. Tm AIRPO 
+SPR~ISA D,
+
+2150COMMANDER 
+
+MAINEIL, AP, NO. 311
+
+US ARNUCERACEMCLAEC 
+
+NAVAL snipENNERPING CETER 
+
+BUIDIG 273ATMN 
+
+CODS 6132. EWARD . A"UR 
+
+NAR NZMITY R 
+AWFNCOSTS-A. LRATNGON, 
+
+WAS 2R,0 362 0 DBPAEnEUnw or THE AIR FORCE 
+ASPRINELD,OVN 221
+
+ROND 2100 awNTER. SILWEERSPRING 2010 
+
+ATN12 A6 
+
+
+ORVALSC
+
+WEAON SURFA,
+
+COMPANDER 
+0EN73R
+
+COS CDE F2 OI .RNUW WDAM
+
+US ARMYTEAISN AND LAINCMAD 
+
+AN L. MELLRO,WN CS CODEWR3aNDUR wm 
+
+asowro
+
+AT Rm COAD 
+
+AWNuODE EAAROIT 0-0 
+
+P531WTOFNIDOT IVSOU, F 
+FO MOROVAN 23651 
+
+E SVER
+
+D 109 CLU. 22448 
+
+R291 
+ATTN UTP S .MMLR 
+NRIUR-MTO 817, 33
+
+An, Wk
+
+COMMANDSM 
+
+COMANSWN 
+WUIT AN S MRISILERA 
+
+NAVAL SURFAE WEPOS ENER 
+
+CoUSANOS 
+
+DONIE COMSNDI~ MEW, 
+
+L5002T ATREN 0-mosy~u DI.SN.SPAT 
+ATMATR2OP-A" OO9DrsGATTNmIno, 
+
+LEO NUSA 
+
+FORTMOMOR, X 26SIRULRES.Vh 24"ATTN 
+ft 
+
+l . SL. SAMA 
+MUILL kn= AFS, ON 45403 
+COPIUM CONAX46 
+
+
+DISIIIIUTION (Cont'd) 
+
+amMt,.O.. 
+
+curnA WEoATR 
+ftrnzasmmco m
+
+m5S9 
+
+AITS TOLD ATE DM ON VCR C. M. VI'm A7N COPY 6401 
+GRIFFmS Aft, N! 13441 AWN om on VGA3. L. DAMN TETERORO, W 07606 
+
+AWM weC con won zum~ V. BAS1IN" 
+cOMAusuER ALBUUERQ.UE, 6N711S 303RI6G COMPANY~MCAN10 AM LOGISTICS CUUT3R P.O. 303 3707 
+ODPSMDWX Or THE AIR 10303 CNTRAL ITSLL~UG E LORIET 
+
+ATM NONAW N. VICEAKI 
+ATTN lI , 3. A. SUIASTRO AT" RD/81, IN 5048, 80 KO AT" 0. a. tlmau 
+AT" BRIA, J7. V. 05668 FOR ONI/kE/mm ATTMDAVID REMIX 
+AmN SYDNEY, r. 3. SPEAR WASHINGTION,CC 20505 ATTE 16 C. MNANAN 
+EOCLSLLAS AmD, ca 95652 
+
+ATN REST TOK LUs 
+AvmIITRATOR SEATLE, MR 96124 
+smmo/zN ZEUU PaSSER
+
+METRIC ADUIS 
+
+AIR 1033 SYSTEM COIMMAND OXPARINP OF THS INRIOR DOOW-ALUaSMID0INKIL , INC. 
+POST OFFICE 3ON 92960 DWERIOR BOMB1 BLDG, 312 106 armI STEET? 
+MORLONATPOST" CENTER ATM L. 0 NEILL AM a6 J. CHIaMMO 
+
+
+(Iw!LLIGffmcz) MASImOTON, DC 20240 AWNMTOMH LID 
+ATTN 1IND 
+
+TINTON FALLS, SO 07724 
+LS AmNELE, CA 90009 IMPATMzW OF TRANSPORTATION 
+FEDERAL AVIATION ADMINISTRATION BUpRGH CMCwAwRTzw 
+smmu/S SKADguARTERS age Div, ASZ-300 FEDERAL AND SPECIAL SYTEMS GROUP 
+AIR PFNC SYSTEMS COMMGAND 900 IND8PENEC5 AVENUE, 36 CENTRAL AVE AND 30OUTS252 
+
+(NnIIITUAm) 
+AWN SEC DIV ASE-300 P.O. 30X S17 
+
+ATTS HMS, HA.7 N. BARAY MASNIGTON, DC 20591 AWN AOIC .. NAURIELL 
+AWNmMEN, CAPT R. I. LANREMCE PAOLI, PR 19301 
+MORTONAPB, CA 92409 AEROSPACE CORPORATION 
+
+P.O. 
+B0X 92957 CRISMAN CORPORATION 
+531550/YA ATTH C. 3. PEARLSTON P.O. 503 400 
+AIR FONC SYSTEMS COMMAND AWNMIRVING N. GARTIUL AWNMTEH LIBRARY 
+poor OFFICE 303 92960 AWN JULIAN REINNHEDER BUFFALO, NY 14225 
+VORLDMAYPOSTAL CENTER AWNmLIBRARY 
+AWN YAPC AWNHCHARLES GREENNOM CHniALS MARKxoPAP LADOTORT INC. 
+LOS ANGELES, CA 90009 LOS ANGELE~S, CA 90009 555 yxcuuOooY aguan 
+
+STRATEGIC AIR CGSIND/XPS AGBAY AN ASSOCIATED AWNHTIC He74 
+AWN URI-STINF LIBRARY 250 NORTH MSS STREET CAMBRIDGE MA 02139 
+AWN GEL AWNHLIBRARY 
+AWNUGREW 9. NATfB EL $@=JDO, CA 90245 CINCINNATI ELECTRONICS CwORPOOTzw 
+ATMN 211. MA.7 BRIAN 4-STEPHE3N 2630 GAENOLi-NIIFomD ROAD 
+OFYVFT Mo. BS 66113 AICO RSEAEH SYSTEMS6GRUP AWN M~IS EAMIOND 
+
+201 LOWELL STREET CINCINNATI, ON 45241 
+DPARTMENT OF NEWO AWN VW.LSPSEVICH 
+AUt3UJRCUi OPRAuTIONS CeFICE ViErVGTrON, MA 0167 COMPUTER6 SCZUEW CORPORATION 
+
+
+P.O. 
+SOS 5400 6565 ARLINGTON BLVD 
+AWNH mC Ow FOR IN LIBRARY MIATUUZ MEMORIAL INSTITUTE AWN RAHOS 3 8 
+AWN OPERATIONAL SAFETY DIV S05 KING AVENUE FALLS CHRCH.3 TA 22046 
+ALouguERQU, BY 97t1 S AWN" R0BERT a. BALER 
+
+AWNKSUME Rt. LEACH COMPUTER30150 CORPORATION 
+UNIVERSIT OF CALIFOUhA cOLSUS, ON 43201 1400 SAN MAY30 BLVD. BE 
+LANRUEE LIVESRE LABORATORY AWNMRICHARD H. DECU 
+
+P.O. Dam 60o SEIMCORPORATION AWN ALVIN ECRl?? 
+AWNM00C CON FON TSCHNICAL 7915 JUN DRAWENDRIVE ALBUQUORME KU 67106 
+INFORMATION DUFT AWNHCORPORATE LIBRARY 
+AT"WNmCOw FOR L-06, T. DONICH MCLEAN. TA 22101 CONTROL DATA CORPORATION 
+AWN DOC CoNl FOE L-543, N. NISSAR P.O. 30X20 
+AWN DOCCowPOR L-1 56. 3. MILLOR 3on CORPORATZON AWNS JACK MODR 
+AWNm OO FOR L-10, H. XRDGZR P.O. SON 9274 NINISUaOLIS, KU SS440 
+AWN CO Ow FOR H. 3. CABATAN ALDKgUERQJ INTERNATIONAL 
+LIVERMORE, CA 94550 AWNHLID CIYIRm-mmuSE, INC0. 
+
+AI.suUgERgJE. BY 97119 AZL DIVISION 
+Los AR06 scrmxEwTZ tAboETONYr COWm F40 
+
+P.O. 
+303 1663 636012 CORPORATION, TRY AWN036Am ff156 
+DOow 331503 LABORATORIES NT
+AWNm c FOR N. MEUL SEANCH DIVISION USSR pANE, 11729 
+AWN DCC Ow FOR CLARENCE DEMO 33301 cENTE 
+wo AR05, BY 97545 AWN BAK FRANK DIMWO ZNDUTRIES I=C 
+
+sOIJ WD 141 49075 1009 DRANDFURY DRIVE, BE 
+AWNMTIE LID 
+AWN L. RAINE DAVIS 
+AZB1UQJ3U, IS 37106 
+
+47 
+
+
+[ 
+
+DImlNOoc INDUSTIESI, INC. 
+1100 GIINOO AVWU 
+
+ATTN K. INS 
+Los ANGElES CIL 90024 
+
+GasILLs DIVISION 
+
+P.O. aOn 1056 
+AITN JOUZT MOMN 
+cagVILLE. TX 75401 
+
+9ECT TSCISIOLOGY. IN. 
+5383 ftU.II*U AVSMUE 
+
+ATTN S. C9ON 
+
+SANTABARSARA, CA 93111 
+
+NOW WASHNGTON ANALYTICAL 
+SERVICW CEITOR. INC. 
+
+*P.O. 9=x 102t0 
+ATTN4C. 61185 
+hAUQUUQ(JE. ME 87114 
+
+
+EnON NUIAEAR COMPANY.INC. 
+
+REORARN AND TBCHNOLOGY CENTER 
+2955 GEORGE WASHINGTONMAY 
+
+ATMN OR, A. W. TRIVLPINC3 
+RICHanD, wR "03S2 
+
+FAZNHILD CAMERAAMD INSPWBE3NT CORP 
+464 ELLIS SIRER? 
+ATTM SEC CON FOR DAVID K. MYRRS 
+MOUNTAINvim,. CA 94040 
+
+FOND AXROSPAOE CORP
+
+& COMMUNICATIONS 
+3939 FADIAN WAY 
+
+ATTN TECHNICAL LIBRARY 
+PAW ALTO, CA 94303 
+
+FRD AEROSPACE & COMUICATIONS 
+OPECRATIONS 
+
+FOND a JAMBOREE ROADS 
+ATN aN e. A1TTIGRM 
+AT"N S. It.POIICEIST, JR. 
+NIWPO *E11ACH,CA 92663 
+
+F1RANILIN DINSIT IETIN 
+20TH STREET AMS PARMAY 
+
+A" 3*32 ff. THOMPSON 
+
+PHIzAAMPIZA, PA 19103 
+
+GENERL _DYNAMICSCORP 
+SC rONIC DTIVISIjol 
+
+P.O. amE 91125 
+ATM RC 1.13 
+ORINDIMG, CA 92133 
+
+GENERAL. DYNAMICS CORPORATION 
+INTEA-DIVISION MORRO LIBRARY 
+
+KEhMT PM 
+
+P.O. SUN 30647 
+AITSNREsANH LIBRARY 
+SAWDIEGO, CA 98123 
+
+IFRAL ELEICTRIC CO. -TIPO 
+
+MISlR FOR ADVANCED STUDINS 
+
+516 SuTAT STRWE up0 DANER QO) 
+
+WTHNOASAC 
+
+ATM BOYD R. UTURPwoRD 
+
+AT" WILLIAM MCNANIM 
+
+SANTA BABARA, CA 93102 
+
+DISTRIBUTION (Cant' 4) 
+
+GENEAL SICTRIC COMPANY 
+ARSPC ELC ICS SYSTEMS 
+
+Fr~N ROD 
+ATTN =NMZ It. Nise" 
+UTlICA, ff 13503 
+
+GEPIEAL XEBCTAIC COMPANPY 
+
+P.O. SOX Sao5000ICOPSAS 
+ATTN TOH LIS3 
+BINGHAMTON, NY 13902 
+
+EORAILELECTRIC CO.-.TOM1 
+ALZXKMoRTA OPIFICE 
+HUNSTINGT'ONUIDING, SUITS 300 
+
+2560 NIJNTING"O AVUE 
+
+ATMNCISIAC 
+ALEUNDRIA, VA 22303 
+
+GENERAL REERENC CORPORATION 
+
+SANTA RARRARA 
+
+P.O. BOR 6770 
+ATTH TOCH IO OFPICE 
+SANITABARBARA CA 93111 
+
+(3ORGIA INTITT or TwCNOlloG 
+GEORGIA TECH aZIs3&Hi INSTITUTE 
+ATN It. CURRY 
+
+ATLANTA, G. 30332 
+
+GEORGIA INS'TITUITE OF TECHNOLOGY 
+OFFICE OF CONTRACT A014INISPATION 
+AT RE & SEC COORD FOR HUGHI OUNY 
+
+ALN, h332INSTITUTE 
+GRUMMIAN CORPORATION
+
+AEROSPACE 
+
+S0OUTHOYSTE DAY ROAD 
+AmT L-0 1 35 
+SENPAG3, NY 11714 
+
+(WE SYLVANIA INC. 
+ELECTRONICS SYSTEMS GRP-EAETSRM DIV 
+77 A STREW? 
+ATTN CNARLES A. THORNHILL, LIBRARIAN 
+ATTN LEOWDRD L. 3IAI8DELL 
+PEEDNAN. MR 02194 
+
+OTE SYLV,'.NIA, INC. 
+
+1I9 8 STREET 
+AmY CHARLES N. rB.MSBO7TMO 
+AM DAVID o. Fmoo 
+AT"N WIL P. IRPICHOK 
+ATMN8 & V GROUP. MARIO A. NUREFORA 
+AmT J7. WALOR0W 
+NEEDIM MIGHTS1, NA 02194 
+
+HARRIS CORPORATION 
+HARRIS SEICONDUCTOR DIVISION 
+
+P.O. MR3 683 
+ATTN V PRI & INt PROMS DIV 
+mMEBOURNE, FL 32901 
+
+NASEIIH CORPORATION 
+
+AM TECH INFO CTR, 14. WATS 
+tGMANNI NY 11740 
+
+48 
+
+HISYWZRLL ICORPOAmS 
+AVIGNICS DIVISION 
+2600 RIDGWAY PARWAY 
+NITH aI.RO 1.1 S4 
+
+
+AT RONALD It.JON" 
+
+
+AVIONICS DIVISION 
+13350 U.S. HIGHWAY19 NORTH 
+ATTS M.8 725-5, SPACE m. CRLF? 
+AYYN W. It WMNARY 
+ST. POTIERSBURS, FL 33733 
+
+NUGHSS AIRCRAFT OMPANY 
+
+COITIMEA AND M3AX 
+ATTN JON S. SINGLETARY 
+ATT" CTOC 6/3110 
+ATT MNIMT Rt. NALEN 
+CULVERCITY, CA 90230 
+
+
+lIT MONARCH DhSTITTmZ 
+ELElCTRIGh CORPATABILITY ANALCTR 
+NORTH SEVERN 
+WYTKAC 
+ANNIAPOLIS, IN) 21402 
+
+lIT RESzANCH INSTITUTlE 
+to WNT 35T'H STREET 
+ATTN IRVING M. NINCL 
+
+
+Am 3ACZ z. BRIDGes 
+CHICAGO, IL 60616 
+
+
+FOR luFENs ANALYSE 
+
+400 ANY-NAVY DRIVEC 
+ATTH TECH INFO SERVICES 
+ARLINGTON, VA 22202 
+
+
+INTL TEL a TELEGRAMH CORPORATION 
+50D WASHINGTON AVENUE 
+ATMNTECHNICAL LIBRARY 
+
+ATTN AIzMANDE T. RICHARDSON 
+NUTLEY, 33 07110 
+
+
+rIF? CORPORATION 
+
+P.O. BOX 01007 
+ATMNC. S. WILLIAM 
+AT UNNIS 901FT 
+SAN DIEM, CA 92138 
+JAYCON 
+
+SANTA BARBARAFACILITY 
+P.O0. NOR 2006 
+Am V. A. MADAMK 
+
+SANTA SAMARA. CA 93120 
+
+JAYCOR 
+1401 CAMIN0 OL MRA 
+ATTN ERIC P. WOMAN 
+ATTN RALPHNR. STAL 
+DI MAR. CA 92014 
+
+205 8 UIITIN SPRUE?, SUITE 300 
+ATM Lin 
+ALEERNDRIA, WA 22304 
+
+
+MAH SCc ES CORPORATION 
+IS00 GRO Or TE GDS ROAD 
+AmASES
+
+P.DRIGES1400 
+ATM W. FormN RICH 
+ATM NAAIM 3. WARE 
+
+ATM Full a. SNEZJION 
+ATT 33351 1. &OMELL 
+ATM PHIL ?R30 
+AM WENNERSTARK 
+
+COLORADOSPRINEGS,CO 80907 
+
+LITTON SYSTEMS, TMC-
+
+DATAYSTEM13 DIVISIONCOPRTN 
+
+6000 3000.31 AVENUE 
+Am u OPP.O. 
+Am EW GP6 
+
+
+AT MMS61,CA910 
+
+VMNOS CA91409ATM 
+
+LIT"O SYSTES, INC. 
+
+ANBCON4DIVISION 
+5115 CALVERT ROAD 
+Am J. SKAGOSM 
+COLLEG PARK N 2074 
+
+
+COLEE Dha,070NORTHROP 
+
+LOCKE MISSLIS AND SPACE
+
+I 
+
+COMPANY. INC 
+
+P.0. Sol 504 
+AmT L. ROSSINMMMR
+908 
+
+Am SAmUE I. TAINI7?Y 
+AM N. 3. ?mAy" 
+
+
+AM GRORGEF. NUINH 
+AM DUEJAIEIN. T.IIEU 
+SUNNYVALE, CA 94086 
+
+
+LOCKEEzD MISSILES AED SPACE 
+
+COMPANY.INC. 
+3251 HANOVERSTRUET 
+AT C INFrOCIR 0/COLL 
+PAW ALT0, CA 94304 
+
+
+M.I.T. LINCOLN LABORATORY 
+P.O. BOX 73 
+AM LEONA WUoNLIN 
+LEXINGTON, MR 02173 
+
+
+MARTIN MARIETTA CORPORATION 
+ORLANDODIVISION 
+
+
+P.O. S0N 5837 
+Am" Mom C. GRWrFITHSCEC:APITONN. 
+ORLANDO. FL 32805 
+
+MCDOONELDOUGLASCORPORATION 
+Pon! OFFICE BOE 516 
+AM ToE soDE 
+
+
+ST o ous366IM 
+
+MCDONNELL DOOA" CORPORATION 
+5301 DOLS AVENU 
+ATTN rANLEy 5COMIIDgR 
+
+
+LIBARYSERVCESSANTA 
+6331! TECHO BE9AH, 92647 
+
+
+ATTNTEC 
+
+CAVIE 
+
+"m.C 267M. 
+
+MISSION REsawnH COfPoRATION 
+
+P.O. oRAWE 719 
+Am" so mP 
+Am" WILLIAM C. HA?! 
+Am C. LoNORIRE 
+
+
+SAT RANA., CA 93102 
+
+DISTRIBUTION (Coft'd) 
+
+MISSION RESEAACH CORPORATION 
+
+34 SYSTE APPLICATIIONS DIVISION 
+SAN MATEOBLVD, SE, WNlE A 
+AM DAVID 3. MERWTNU 
+ATMN L. M. NDCON4CK 
+AMSEJQMU, ME 07108 
+
+MISSION RESEARcH CORPORATION 
+-SAW DIEMO 
+
+P.o. BOX 1209 
+AmT V. A. J. VAlE LINT 
+IA jOLA, CA 92038 
+
+MITRE CORPORATION, THE 
+Box 208 
+ATTN x. F. FITZGERALD 
+SOND, MA 01730 
+
+
+NoNDENSYSTEMS, Inc. 
+
+HELEN STREET 
+AmT TECHNIICAL LIBRARY 
+ENALK.T 0656 
+
+
+REAR~m TEcmHOLOGY CENTER 
+
+ONE RESEARCHPARK 
+AmT LIBRARY 
+PAWOSV43303 Pmm, CA 90274 
+
+
+NORTHROPCORPORTION 
+
+ELECTRONIC DIVISION 
+
+2301 WEST 120M STREET 
+AmT 131 SMITH 
+AM RAD EFECTS GBP 
+
+
+HWORECA920ROCKWELL 
+
+
+PHYSICS INTERNATIONAL COMPANY 
+2700 MENDEDSTRUTW 
+Am" DOC CON 
+SAN LEANDRO, CA 94577 
+
+
+Ro&.D ASSOCIATED 
+
+P.O. 101x 9695 
+ATMNS-CLAY ROGERS 
+Am" RICHARD R. SCHAEFER 
+Am" DOCcon 
+
+AT"N M. GROVER 
+AmT C. MACDONALD 
+MARINA DEL RET, CA 90291 
+
+
+R&D ASSOCIATES 
+1401 WILSON BLVD 
+
+
+SuITE S00 
+AM 3. IsmaRU 
+
+
+AtLINmtON vA 22209 
+
+CORPORATION 
+
+1700 MAIN STEE 
+AmT LI2-0 
+AmT N. 8OUVRE?
+
+
+~I -A, CA 90406 
+
+RAITTO COMPANY 
+
+MRwin*= AD 
+
+Am031N .JS 
+
+SWORD. MR 01730NITEU. 
+
+MTonEO CoSIANT 
+Sagm #o ODD
+
+
+DOPO 
+Am Wwa 1. FLEUCmE 
+
+
+135603?, NA 01796 
+
+RCA CORPORATION 
+
+SYSTEMS DIVISION
+
+GOVERNMENT 
+
+AITRO ELECTRONICS 
+
+P.O. DE80 CTCRE 
+SUM. WNDSOR TONSHIP 
+PRINTON, NJ 08540 
+
+BcA CORPORATION 
+DAVID SAlNlFF REsEaRcH CENTER 
+
+P.O. BOX 432 
+Am SECURITY DEPT, L. INEICN 
+PRINCETON, NJ 08S40 
+
+RCACOPRIN 
+CAMDE COMPLEX 
+P1331! a COOPERSTRUETS 
+ATIN OLIVE WHITEHEAD 
+
+
+R. W. ICETRON 
+CARDEN, NJ 08012 
+U~HTO& OPRTO
+
+OPRTO
+
+ROCIIL.ITRAINA 
+
+P.O. Box 3105 
+AmT N. 3. IOJOI 
+ATTN .7. L. MONRO 
+AmT V. 3. MICHEL 
+AmT D/243-068, 031-CA31 
+
+
+ANAHEIM, CA 92803 
+
+CRORTO
+
+RCIL NENTOA OPRTO 
+
+SPACE DIVISION BOLVR 
+
+12214 SOTHN LAEWOCO UEVR 
+
+Arm a. E. WHITE 
+
+DOWNE, CA 90241 
+
+INTSRNTIONAL CORPORATION 
+815 ZAPAJE STREET 
+ATTN 1-1 * DIV TIC (BAOS) 
+
+EL 530060, CA 90245 
+
+RCWL NENTOA OPRTO 
+
+P.O. DOE 369 
+KttN F. A. SHAW 
+CLEAIEILD. Ur 84015 
+SANDERSASSOCIATES. INC. 
+95 CANAL STREET 
+
+
+KTY 1-6270,. 6 G-OSPATUT. SR P 3 
+NASHUA, WE 03060 
+
+SCIENC aP277 IAT E 
+
+P.O. U01 277= 
+AmELYRCK 9.4701 
+
+ULT A 40 
+
+SINEAPIAIN.I~ 
+
+P.O. amE 2351 
+AM a. PhramSON 
+IA joLlA, CA 92038 
+SCIENCE APPL.ICATIONS, INC. 
+H uTsI DIVISION 
+2109 W. CLINTON AvUE 
+
+
+SUIT 700 
+
+mrSVL~ 3. 3500N
+
+L350 
+
+aCtme APE'ICATIONS. IWC. 
+"400 WETPABK vRIvE 
+Arm WILLIAM I.. COMEX 
+
+
+"CLEAN, VA 22101 
+
+49 
+
+
+DISTRIBUTION (Cont' d) 
+
+T6AS rich UNIVERSITY
+
+SINGER COMPANY 
+
+P.O. am1 5404 M4ONTH COLLEGI STATION
+AM. SURIY MNAER 
+FOR TC8 INFO CA 
+
+AMN TRAVIS L. SIMPSON 
+
+LUDDOK, TI 79417 
+LIZT FALLS, w. 07424 00W 
+
+1150 HC BRIDE AVENUE 
+
+
+IT~ED TRCIOWGIES 
+
+8ANILTON STANDARD DIVISION 
+SPRRY HCR AvE ELECTRONICS 9RAVLEY rINERIATIONAL AZRPORT
+
+SPRY RAND CORPORATION 
+
+P.O. 301 4646 AI1 CHIEF BLOC DESIGN 
+P.O. BOX 1 C6 ? 
+WINDSOR LOCKS, CT 06069
+
+&2TE MARGAET CORtT 
+
+C'LEARWATER, PL, 33S18 
+
+
+wtTIrwNOUE ELECTRIC CORPORATION 
+
+WYAMEzD ENERG SYST048 DIV 
+SPERRY DIVISION P.O. SOX 10864 
+SPERRY AIVSION ATHE TSCS LID 
+
+
+SPRRY PA1D CORPORATION 
+
+ATN TwC LID 
+
+PITTSBURGH, P 15236 
+GRRATlUCK. U 11020 
+
+
+guAmy ELECTRONICS 
+
+RESEACH 
+
+SPIERRtYMD CORPORATION a DEVELOPMI COMMAND
+SlUtY Fmm O 51PR 45ATTN TIECHICAL DIRECTOR,
+
+
+SPRR FLIGHtT SYSTEMS DRUL-CT 
+
+P.O. 301 21111
+P.O. 11 CHOR 
+HARRYDIAMONDLABORATORIES 
+1603111, AZ 85036 ATN CO/TD/TSO/DIVISION DIRECTORS 
+
+
+p z 5A036TM 
+
+RECORD COPY, 81200 
+
+
+AATW .L 81100 COPIRS)
+
+S C N LIBRARY (3
+
+SPI. SORPO 
+
+AT ROL1LIBRARY (WOODBRIDGE)81100 
+
+P.O. MR D AIIm TECHNICAL RIORTS 8RNCH, 81300 
+AT" J30g a. LIT 
+A"N CHRAIRNAN,EDITORIAL COMMrtTES
+
+&I" 8oM C* LITTLE 
+
+THCIT 10 
+
+ATTN CHIRP, 21000
+
+BEDORD, Nk 01730 
+
+ArN CHIE . 22000 
+
+AWN CIEF, 22100 (3 COIES)
+
+SRI IKRIATIO"AL 
+
+333 VAVmnUWOODAVENUME &n CHIEF, 22300 
+AMN A mIU WHIT"N AwN CHIEF, 22800 
+H4M PiARK, CA 94025 ATM CI1P, 13300 
+
+
+*ySTI5, IC]'IRE AND SWriIARI, IMC, ATNW CHIEF, 21100 (3 COPIES) 
+
+ATTN CHIEF, 21200 
+ATM ADREp ft. WILSON ATM" CHI, 21400 (2 COPIES) 
+Lh joLta, cA 92038 
+
+
+P.O. sox 1620 
+ATTN CHIEF, 21S00 
+
+AT"N SALICI, F. W., 20240 
+ATII WINEITS. F. N., 20240
+
+TEXAS IIUTIRIENTS, INC. 
+
+P.O. am 6015 
+ATM TALERICO, A., 47400
+
+ATtN TER LID 
+
+ATE BIXBY it.,22900
+
+AT DN,ALE 7.265 
+
+AIAm Hw , N. T., 21300 (20 COPIES) 
+
+TOM3M1t S SPACE TS GROUP 
+OnE P ARK 
+
+
+ArN 0. IL AMNS 
+ATN 3. T. PLIBON 
+ATM L. 4. RGWOLIA 
+AmN w. a. ROILGIAY 
+Arm N. G lRDt 
+
+
+Mn530 BE ACR, CA 90278 
+
+J. so 
+

@@ -1,0 +1,18 @@
+2  ! Dimension configuration
+  100  100  ! Grid size (see also params file)
+  1.500  1.500  ! Grid cell size in cm
+   500  ! number of time steps
+ .1500E-10  ! Time step size (sec)
+ 0  ! Number of new materials
+  1  ! Number of background layers
+  1  ! Material type of layer  1
+  0  ! Number of foreground objects
+2  ! Source type
+  1  ! Number of excitation points
+   50    50  ! Excitation point coords #  1
+ .00  .00 1.00  ! Directional exn strengths
+4  ! Pulse shape
+  40.0  ! Gaussian pulse width (time steps)
+ 200.0  ! Gaussian peak time (time steps)
+.1000E+10  ! Pulse frequency
+    10  ! Number of time steps between outputs

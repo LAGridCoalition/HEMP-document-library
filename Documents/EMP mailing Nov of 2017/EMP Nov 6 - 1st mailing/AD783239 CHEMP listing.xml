@@ -1,0 +1,497 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="created" content="Mon May 11 14:47:50 EDT 2009"/>
+<meta name="producer" content="Adobe Acrobat 9.0 Paper Capture Plug-in"/>
+<meta name="Content-Type" content="application/pdf"/>
+<title/>
+</head>
+<body>
+<div class="page">
+<p>AFWL- TR-7 4-49 AFWL- TR-
+74-49 
+CHEMP: A CODE FOR CALCULATION OF 
+·HIGH-ALTITUDE EMP 
+July 1974 
+Final Report for Peri.6d March 1973 - December 1973 
+.,' 
+Approved for 'public release; distribution unlimited. 
+AIR FORCE WEAPONS LABORATORY 
+Air Force Systems Command 
+Kirtland Air Force ~~8ZllL </p>
+</div>
+<div class="page">
+<p>AFWL-TR-74-49 
+~ FORCE WEAPONS LABORATORY 
+Air Force Systems Command 
+Kirtland Air Force Base 
+New Mexico 87117 
+When US Government drawings, specifications, or other data are used for 
+any purpose other than a definitely related Government procurement operation, 
+the Government thereby incurs nO responsibility nor any obligation whatsoever, 
+and the fact that the Government may have formulated, furnished, or in any way 
+supplied the said drawings, specifications, or other data, is not to be 
+regarded by implication or otherwise, as in any manner licensing the holder 
+or any other person or corporation, or conveying any rights or permission to 
+manufacture, use, or sell any patented invention that may in any way be 
+related thereto. 
+DO NOT RETURN THIS COPY. RETAIN OR DESTROY. 
+;t </p>
+</div>
+<div class="page">
+<p>UNCLASS I FI ED A]),7f1~39 S'&gt;(,lIrity Cla&lt;;sificatinn 
+DOCUMENT CONTROL DATA - R&amp; D -
+(S('Cllrity (·111 ... .&lt;;;(;( l,tiofJ of fillo, Iwdy (If (Jhtdfltf t ,,,,,] ;tldf~xinl1"''''Q'/lti(l'' mil';' he entCrtHJ W"t~TI tI.,· '~vf:rlJlJ tnl'llf' ,., rlll"MItJ,,") 
+, OF'(IGINA liNG A( TIVll Y ('orportlte nul/Jut) 2..:'. HLf&gt;()Pl ',r:C1JHt T,( CLA:'iSlf IC/. finN 
+Air Force Heapons Laboratory (DYT) Unclassified 
+Ki rt 1 and II.; r Force Base, New Mexico 87117 2h. G~OUP 
+3 REP,?PT TITLE 
+CHEt~P : A CODE FOR CALCULATION OF HIGH-ALTITUDE EMP 
+4. DESCR""TIVE NOTES (Type of report and inclusive dates) 
+Final Reoort for Period March 1973 - December 1973 
+5. AU THOR(S) (First name, middle initial, last name) 
+Leon A. l~i ttwer, Capt, USAF; Gregory H. Canavan, t1aj, USAF; James E. Brau, Capt, USAF 
+6. REPORT DATE 7a. TOTAL NO. OFPAGES if rb. NO. 0; REFS July 1974 .~ ....... 0&lt; 
+8a. CONTRACT OR GRANT NO. 9a. ORIGINATOR'S REPORT NUMBERIS) 
+b. PROJECT NO. 8809 AFWL-TR-74-49 
+c. Task 18 9b. OTHER REPORT NOIS) (Any other numbers that may be assigned 
+this report) 
+d. 
+10. DISTRIBUTION STATEMENT 
+Approved for public release; distribution un 1 imited. 
+11. SUPPLEMENTARY NOTES 12. SPONSORING MILITARY ACTIVITY 
+AFWL (DYT) 
+Kirtland AFB, NM 87117 
+13. ABSTRACT (Distribution L imitati on Statement A) 
+\ 
+CHEMP is a code originally designed to examine the effects of self-consistency on 
+high-altitude fields by using a particle pushing model for the current calculation 
+and the high-frequency approximation for calculating the fields. CHEMP has been 
+extended to study the effects of nonforward Compton scattering, varying gamma 
+energies, and elastic nuclear scattering. 
+'. 
+_.---
+---- -
+Reproduced by 
+" NATIONAL TECHNICAL 
+INFORMATION SERVICE 
+U S Department of Commerce 
+Springfield VA 22151 
+I UNCLASSIFIED 
+Security Classification </p>
+</div>
+<div class="page">
+<p>14. 
+UNCLASSIFIED 
+Security Classification 
+KEY WORDS 
+..... 
+Hi gh-altitude Er1P 
+Electromagnetic pulse (EMP) 
+~~/ 
+, eL 
+I 
+LINK A LINK B LIN K C 
+ROLE WT ROLE WT ROLE 'liT 
+:-
+I 
+i 
+UNCLASSIFIED 
+Security Classification </p>
+</div>
+<div class="page">
+<p>AFWL-TR-74-49 
+CHEMP: A CODE FOR CALCULATION OF HIGH-ALTITUDE EMP 
+Leon A. Wittwer 
+Capt USAF 
+Gregory H. Canavan 
+Maj USAF 
+James E. Brau 
+Capt USAF 
+Final Report for Period March 1973 - December 1973 
+Approved for public release; distribution unlimited. </p>
+</div>
+<div class="page">
+<p>AFWL-TR-74-49 
+FOREWORD 
+This research was performed under Program Element 62601F, Project 8809, 
+Task 18. 
+Inclusive dates of research were March 1973 through December 1973. The 
+report was submitted 22 March 1974 by the Ai r Force ~Jeapons Laboratory Project 
+Officer, Captain Leon A. Wittwer (DYT). The former project officer was Captain 
+James E. Brau. 
+This technical report has been reviewed and is apprOved. 
+La~1J~ 
+LEON A. WITTWER 
+Captain, USAF 
+Project Officer 
+)J;.u ",tl /J /I'l~--
+JAY R. ROLAND 
+r~aj or, USAF 
+Chief, Theoretical Physics Branch 
+ii 
+DAVID M ERICSON, JR. 
+Lt Colonel, USAF 
+Chief, Technology Divison </p>
+</div>
+<div class="page">
+<p>AFWL-TR-74-49 
+ABSTRACT 
+(Distribution Limitation Statement A) 
+CHEMP is a code originally designed to examine the effects of self-consistency 
+on high-altitude fields by using a partic']e pushing model for the current calcu 
+lation and the high-frequency approximation for calculating the fields. CHEMP 
+has been extended to study the effects of nonforward Compton scattering, varying 
+gamma energies, and elastic nuclear scattering. 
+iii/iv </p>
+</div>
+<div class="page">
+<p/>
+</div>
+<div class="page">
+<p>AFWL-TR-74-49 
+CONTENTS 
+Section Page 
+I INTRODUCTION 1 
+I! GENERAL ALGORITHM 2 
+II! CURRENT SOURCE 8 
+IV ENERGY CALCULATIONS 11 
+APPENDIXES 
+I Physical Constants 13 
+II Numerical Methods 15 
+REFERENCES 16 
+v/vi </p>
+</div>
+<div class="page">
+<p/>
+</div>
+<div class="page">
+<p>AFWL-TR-74-49 
+SECTION I 
+INTRODUCTION 
+The purpose of this report is to describe the CHEMP code and its usage. 
+CHEMP was originally developed to examine the effects of self-consistency in 
+high-altitude EMP calculations. The code then went through continual develop 
+ment to look at other topics of interest. The present version described here 
+is state of the art in all aspects of the physical model and can perform calcu 
+lations for all the known high-altitude EMP scenarios. This paper is in four 
+sections. The first is a general description of the algorithm. Subsequent 
+sections deal with specific portions of the methodology in greater detail. 
+1 </p>
+</div>
+<div class="page">
+<p>AF~JL-TR-74-49 
+SECTION II 
+GENERAL ALGORITHM 
+CHEMP is based on a particle pushing model for the Compton electron dynamics 
+and the high-frequency approximation (ref. 1) for the electromagnetic fields. 
+The fundamental equations are those for the motion of the particles and those 
+which determine the fields. For the particle's motion in retarded time 
+(1) 
+(2) 
+where vk in the velocity of the kth particle, y equals (1 - IVkI2/c2)-1/2, ~r is 
+a unit vector along the line of sight from the burst, T is retarded time, and 
+dWk/dx is the energy loss per unit path length from ionization (appendix II). 
+For the fields in retarded time 
+where ET, BT, and JT are the transverse electric field, magnetic field, and 
+current, and Er,Br and J r are the radial electric field, magnetic field, and 
+current. The currents include the conduction currents. 
+The fundamental equations are all expressed in retarded time 
+T = t - ric 
+2 
+(3) 
+(4) 
+(5 ) 
+(6 ) </p>
+</div>
+<div class="page">
+<p>AFWL-TR-74-49 
+where T is retarded time, t is absolute time, and r is the coordinate along Q,r' 
+The transform of the equation of motion (1) is seen by differentiating (6) to 
+give 
+(7) 
+For the field transform the time derivative in (7) is, at constant r 
+aT/a t :: 1 (8) 
+(9) 
+where (9) is the transform of the gradient operator. 
+The transform of the charge density is derived from (9) and the invariance 
+of the form of the charge continuity equation as 
+(10) 
+The retarded charge density at r can be expressed as a sum over all particles 
+at r in the form 
+(11 ) 
+where 6T in the proper time volume element and WT'(rk,Tk) is the production rate 
+of Compton electrons per unit volume per retarded time at (rk,Tk) where the kth 
+particle at (r,T) orginated and ;s given by 
+where N is the total number of gammas that scatter the type of electron of y 
+(12) 
+interest, N is the particle density at rk, 0KN is the appropriate cross section 
+3 </p>
+</div>
+<div class="page">
+<p>AFWL-TR-74-49 
+for Compton scattering (appendix I), and f(Tk) is the retarded time dependence 
+of the gamma source and is normalized to one. 
+From equation (10) for the kth electron 
+(13) 
+Thus 
+(14 ) 
+and 
+(15 ) 
+All of the quantities in equation (1) through (4) have been accounted for 
+except for the conduction portion of the current. The conduction current is 
+expressed as 
+(16 ) 
+where &lt; V &gt; is the drift velocity of the conduction electrons. The properties 
+of the conduction electron, the drift velocity, density, and mean energy are 
+calculated with the following swarm (ref. 2) equations 
+d&lt; V &gt; ef &lt; V &gt; dne 
+dt = m- - vm &lt; V &gt; - ne ~ (17) 
+d&lt; U &gt; eE • &lt; V&gt; - v « U &gt; - U ) + S = dt u 0 
+(18 ) 
+&lt; U &gt; dne 
+ne dt 
+4 </p>
+</div>
+<div class="page">
+<p>AFWL-TR-74-49 
+(19 ) 
+wl~ere vm' vu' YT' Ye are the momentum exchange co 11 is i on frequency, energy 
+exchange collision frequency, Townsend air breakdown coefficient, and electron 
+recombination coefficient. All are functions of the particle density and mean 
+energy &lt; U &gt; (see appendix I). Uo is the ambient thermal energy. S is an energy 
+source term which includes energy lost due to recombination and air breakdown 
+and that gained from ionization by primary Compton electrons. Ee is the energy 
+lost per primary ionization event by the Compton electrons (appendix I). Subse 
+quent ionization by secondary electrons can be handled by an appropriate ioniza 
+tion lag model. Ns represents the source of later ionization from the secondaries. 
+This completes the discussion of the fundamental equation used. The remainder 
+of this section will examine the structure of the numerical algorithm used in 
+solving the relevant equation on a space-retarded time grid. 
+r· I 1- r· 1 
+The quantities E, J, and B are known at (i-1, j-l), (i-l, j), and (i, j-l). 
+In addition ne , &lt; V&gt;, &lt; U &gt;, and vk for all particles created before Tj - 1 are 
+known at (i, j-l). It;s assumed that a particle created at r i always is close 
+enough so that it can be assumed to be at ri . First the appropriate quantities 
+are initialized at (i, j), i.e., 
+5 </p>
+</div>
+<div class="page">
+<p>AHJL- TR-74-49 
+E~ = E~ 1 1-1 
+B~ = B~ 1 1-1 
+&lt; U &gt;~ = &lt; U j &gt;. 1 1 1-
+&lt; V &gt;~ &lt; - j = V &gt;. 1 1 1-
+and the necessary particles are created at (i, j-l). The weight of new particles 
+created at (i, j-l) is 
+Weight = N Ny 0KN exp (-of
+ri 
+where np is the number of particles created. If np is one, generally the parti 
+cle has the average scatter energy and is directed forward. The option also 
+exists to create seve'ral particles at a point to simulate the Compton electron 
+distribution. This will be discussed in greater detail in the source section. 
+Now 
+where k includes the newly created particles. Let Be be the earth's magnetic 
+field. The basic iteration loop proceeds as follows. 
+1. Update v~ for all k by solving equation (1). The solution, obtained 
+iteratively, is time centered in all terms including those nonlinear in the 
+velocity. The total magnetic field is that from the particles plus Be' A one 
+percent convergence criteria in Ivll is used. If desired, the MRC obliquity 
+factor (ref. 3) can be used in this step. 
+2. Calculate the contribution to J~ from the Compton electron by using 1 • 
+equation (15), using the appropriate weight and the just calculated v~'s. 
+6 </p>
+</div>
+<div class="page">
+<p>AFWL-TR-74-49 
+3. Update nj and &lt; U &gt;~ by solving equations (18) and (19) iteratively. 
+ei ' 
+The solutions are time centered in all quantities, and a one-percent convergence 
+criteria is used on &lt; U &gt;~. , 
+4. Update &lt; V&gt;j by solving equation (17) where all quantities are time 
+centered, using the new data calculated in step 3. 
+5. Sum the conduction and Compton currents for J1 
+6. Update E~ and B~ by using equations (3), (4), and (5) where again 
+all quantities are centered. 
+7. Test the magnitude of the new f~ against the old. If the variation 
+is less than one percent, the cell solution is complete. If not, return to step 
+1 and continue with the updated quantities until convergence is reached. 
+The above procedure is used to solve for all time the space cells in the 
+grid. The algorithm calculates for all time at a particular space point before 
+proceeding on to the next space point. This procedure is the most efficient. 
+This completes the general description of the algorithm. 
+7 </p>
+</div>
+<div class="page">
+<p>AFVJL-TR-74-49 
+SECTION III 
+CURRENT SOURCE 
+The current source package defines the location, time, energy, and direction 
+of all the Compton particles at creation. Only primary Compton events are con 
+sidered. There are several options available in CHEMP. The simplest option, 
+used primarily when absolute field strengths are unimportant, is producing one 
+particle each time step with the average Compton scattering energy and directed 
+forward. The gamma spectrum is monoenergetic. If 0 KN is the total Compton 
+cross section and Os is the Compton scattering cross section, then the average 
+Compton electron energy ;s 
+E = (1- l)hV 0 KN 
+where hv ;s the gamma energy. The weight of each particle created is determined 
+/ by the y curve and the attenuation in the atmosphere 
+y = N f(T) y 
+where Ny is the total number of gammas. f(T) is the time dependence of the 
+gamma source and is normalized to one. The gamma flux at Rand T is 
+The deposition rate per unit time and volume is 
+8 </p>
+</div>
+<div class="page">
+<p>AFWL-TR-74-49 
+and the weight of a particle is just the rate integrated over the differential 
+time element. 
+T+6T 
+Weight = f R dT 
+T 
+The next option is generally used for most problems. The gamma spectrum is still 
+monoenergetic, but now several particles are created at each point in time and 
+space. The directions and energies of the particles are created to simulate the 
+initial Compton scattering distribution. As a typical example, to simulate the 
+distribution from a 1.5 MeV source, sixteen particles are created at each point 
+in space and time. Four polar scattering angles, 0.146, 0.357, 0.624, and 1.04 
+radians and four azimuthal angles, 0, TI/29 TI, and 3TI/2 are used to specify the 
+direction of the particles. These angles were chosen so that all particles have 
+equal weights. The particle energies are now a function of the polar scattering 
+angle. Let 8e be the electron scattering angle. Then 
+where 
+The weight of a particle is 
+Weight = (1/16) 
+a = hv/m c2 o 
+9 </p>
+</div>
+<div class="page">
+<p>AFWL-TR-74-49 
+Other weighting schemes with different polar scattering angles are occa 
+sionally used to test the accuracy of these sources. The last major option is 
+whether or not to use a gamma spectrum with either of the above two options. 
+To implement an energy spectrum, the above desired option is done for each 
+energy in the gamma energy spectrum. It is presently assumed that one f(T) 
+function describes all gamma energies. 
+Other variations on this source package are available with minimal changes. 
+10 </p>
+</div>
+<div class="page">
+<p>AFWL-TR-74-49 
+SECTION IV 
+ENERGY CALCULATIONS 
+The CHEMP code was originally built to study the energetics of high-altitude 
+EMP. Six energy totals are kept for every calculation. The first is the total 
+Compton energy deposited over all time and from r = 0 to R. For a monoenergetic 
+spectrum 
+where E is the energy of the Compton electrons and WT'(r,T) is the source func 
+tion define in section II 
+The second energy term is the energy dissipated via the conduction electrons, 
+gi yen by 
+where n(r,T) is the free electron density and (V) is the drift velocity. 
+The third term is the radiated energy that has propagated by the spatial 
+point r. 
+where c is the velocity of light and ET ;s the transverse field. 
+The next energy sum is the longitudinal field energy, given by 
+R 
+We = f /fe(r,Tmax ) /2r2dr 
+o 
+11 </p>
+</div>
+<div class="page">
+<p>AFHL-TR-74-49 
+where Ee is the longitudinal field. The kinetic energy remaining in the Compton 
+electrons at Tmax from R = a to R is found by performing the appropriate sum to 
+get Wk' 
+The last energy is that lost by the Compton electrons in ionizing collisions. 
+This term, Wi' is also summed as the calculation progresses. If the calculations 
+were exact, then 
+W. + Wd + W + H 1 e r 
+In general, the error in total energy in CHEt~P is less than one-half percent. 
+12 </p>
+</div>
+<div class="page">
+<p>AHJL~TR-74-49 
+1. ENERGY LOSS EQUATION 
+APPENDIX I 
+PHYSICAL CONSTANTS 
+The energy loss equation (ref. 3) used in CHEMP is 
+where NZ is the total electron density, B = vIc, y = (l - B2)-1/2, and I is 
+taken as 86 eV. 
+2. COMPTON CROSS SECTION 
+0 KN = 2rrr021 (l+a) [2{1+a)/{1+2a) - ln {1+2a)/a] /a2. 
++ In{1+2a)/2 - {1+3a)/{1+2a)2~ 
+a = hv/m c2 o 
+hv = photon energy 
+3. AIR BREAKDOWN COEFFICIENT, MOMENTUM EXCHANGE COLLISION FREQUENCY, AND ENERGY 
+EXCHANGE COLLISION FREQUENCY 
+For a given characteristic electron energy 
+13 </p>
+</div>
+<div class="page">
+<p>AFWL-TR-74-49 
+"energy = N (1.3X10-11 (1+4.4x104 (5)0.32/(1+ 1.93x103 (10)0.138 
++ 4.13x1010 £5.22/( (1+0.06£7)0.456(1+1.68x10-3 (4)0.097)) 
+v = 1 25xl0-7 NEO.935 (1+0.093 E1.5)0.405 /(1+1.26 El •67 )0.373 
+momentum . \ 
+Where N is the particle density. There fits are variations of fits used by 
+Higgins, Longmire, and OIDell (ref. 2). 
+4. ENERGY LOST PER PRIMARY IONIZATION 
+is 
+For a Compton electron of energy E eV the average energy lost per ionizaton 
+E &gt; 250 Kev 
+250 KeV &gt; E &gt; 0.640 Kev 
+0.640 KeV &gt; E 
+Ee = 86 eV 
+Ee = 7.705 In(E) - 9.79 
+Ee = 1.8 In(E) + 28.4 
+5. ELECTRON RECOMBINATION COEFFICIENT 
+Three body recombination 
+Ye = 2.78xlO-
+31 N2/(1+12.5 E) 
+3 
+Two body dissociative recombination 
+Y
+e 
+= 4.85xlO-12 N/(1+3.45 E-4.8),.29 
+2 
+Total recombination 
+14 </p>
+</div>
+<div class="page">
+<p>AFWL-TR-74-49 
+APPENDIX II 
+NUMERICAL METHODS 
+The general form of the first order differential equations solved is 
+af 
+ax 
+Two numerical forms are used in finding the solution. The first is 
+The second is 
+where 
+f i -1/ 2 = (fi + fi_1)/2 
+xi-1/2 = (xi + xi-1)/2 
+Yi-1/2 = (Yi + Yi-1)/2 
+(20) 
+(21) 
+(22) 
+Both of the above equations are solved iteratively. These forms are used 
+primarily because they are two point schemes. Thus, the increment, 6x, can be 
+charged without incurring any loss of accuracy due to loss of centering. Also 
+the implicit nature of the solution ensures a high degree of numerical stability. 
+The error in equation (21) is ~ (6x)3f' I '(€)/12 
+The error in equation (22) is also of the same order. 
+15 </p>
+</div>
+<div class="page">
+<p>. i
+AFWL-TR-74-49 
+REFERENCES 
+1. Karzas, W. J. and Latter, R., Detection of the Electromagnetic Radiation 
+from Nuclear Explosions in Space, RAND Corporation, RM-4306, 1964. 
+2. Higgins, D. F., Longmire, C. L., O'Dell, A. A., A Method for Estimating the 
+X-ray Produced Electromagnetic Pulse Observed in the Source Re~;on of a 
+High-Altitude Burst, Mission Research Corporation, MRC-R-54, , 73. 
+3. Evans, R. 0., The Atomic Nucleus, McGraw-Hill Book Company, New York, 1969 . 
+16 </p>
+</div>
